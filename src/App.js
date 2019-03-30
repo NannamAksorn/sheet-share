@@ -1,25 +1,34 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-
+import Header from './components/Header'
+import SheetsCards from './components/SheetCards'
+import SidePanel from './components/SidePanel'
+import Filter from './components/Filter'
+import { Container, Row, Col } from 'react-bootstrap'
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <Container>
+        <Row xs='2'>
+          <Col >
+            <Header />
+          </Col>
+        </Row>
+        <Row xs='10'>
+          <Col xs="2">
+            <SidePanel />
+          </Col>
+          <Col>
+          <Row>
+            <Col><Filter /></Col>
+          </Row>
+          <Row>
+            <Col><SheetsCards /></Col>
+          </Row>
+          </Col>
+        </Row>
+      </Container>
       </div>
     );
   }
