@@ -8,27 +8,17 @@ import { Container, Row, Col } from 'react-bootstrap'
 class App extends Component {
   render() {
     return (
-      <div className="App">
-      <Container>
-        <Row xs='2'>
-          <Col >
-            <Header />
-          </Col>
-        </Row>
-        <Row xs='10'>
-          <Col xs="2">
-            <SidePanel />
-          </Col>
-          <Col>
-          <Row>
-            <Col><Filter /></Col>
-          </Row>
-          <Row>
-            <Col><SheetsCards /></Col>
-          </Row>
-          </Col>
-        </Row>
-      </Container>
+      <div className="App bg-dark">
+        <header>
+          <Header />
+        </header>
+        <body className="App-body">
+          <Filter />
+          <SheetsCards />
+        </body>
+        <div className="App-sidenav bg-dark">
+          <SidePanel />
+        </div>
       </div>
     );
   }

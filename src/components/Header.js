@@ -2,29 +2,35 @@ import React, { Component } from 'react'
 import { Navbar, Nav, Form, FormControl, Button, Container, Row, Col } from 'react-bootstrap'
 import logo from '../assets/logo/logo.png'
 import UserBar from './UserBar'
-
+import styles from './Header.css'
 class Header extends Component {
     render() {
         return (
-            <Navbar className="bg-dark justify-content-between mt-sm-4">
+            <Navbar className="fixed-top bg-dark d-flex justify-content-between" expand='sm' collapseOnSelect>
                 <Container>
-                    <Nav>
-                        <Navbar.Brand>
-                            <img
-                                alt="React Bootstrap logo"
-                                src={logo}
-                                width="50"
-                                height="50"
-                                className="d-inline-block"
+                <Nav>
+                    <Navbar.Brand>
+                        <img
+                            alt="React Bootstrap logo"
+                            src={logo}
+                            width="30"
+                            height='30'
                         />
                         {/* Sheet Share */}
-                </Navbar.Brand>
-                    <Form inline>
-                        <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+                    </Navbar.Brand>
+                </Nav>
+                <Nav className='flex-grow-1'>
+                    <Form inline >
+                        <FormControl type="text" placeholder="Search" className="mr-sm-1 form-control-xs" />
                         <Button variant="outline-success">?</Button>
                     </Form>
                 </Nav>
-                <UserBar />
+                <Nav >
+                    <Navbar.Toggle aria-controls='responsive-navbar-nav' />
+                    <Navbar.Collapse id='responsive-navbar-nav'>
+                        <UserBar />
+                    </Navbar.Collapse>
+                </Nav>
                 </Container>
             </Navbar>
         )

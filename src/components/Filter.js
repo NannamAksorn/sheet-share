@@ -3,9 +3,9 @@ import Nav from 'react-bootstrap/Nav'
 export default class Filter extends Component {
     render() {
         return (
-            <Nav variant="pills" defaultActiveKey="/home">
+            <Nav variant="pills" defaultActiveKey="/home" className='bg-dark  p-sm-3 mt-sm-4 mb-sm-2 rounded'>
                 <Nav.Item>
-                    <Nav.Link eventKey="link-all">All</Nav.Link>
+                    <Nav.Link eventKey="link-all" active>All</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                     <Nav.Link eventKey="link-CPE">CPE</Nav.Link>

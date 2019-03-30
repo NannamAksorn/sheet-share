@@ -1,6 +1,21 @@
 .App {
   text-align: center;
-  background-color: #fff9f7;
+  position: static;
+  
+}
+
+.App-body{
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  left:20%;
+  top: 6%;
+}
+
+.App-sidenav{
+  position: fixed;
+  width: 20%;
+  height: 100%;
 }
 
 .App-logo {
