@@ -10,7 +10,8 @@
     width: 80% !important;
 }
 
-img {
-    width: 1;
-    height: 1;
+.center {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }

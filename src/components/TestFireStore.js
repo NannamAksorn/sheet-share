@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import firebase from './Firebase'
+import { DatePicker } from 'antd';
 export default class TestFireStore extends Component {
     constructor() {
         super();
@@ -12,19 +13,21 @@ export default class TestFireStore extends Component {
     componentDidMount() {
         firebase
         .firestore()
-        .collection("users")
+        .collection("sheets")
         .get()
         .then(querySnapshot => {
-          const users = [];
+            // console.log(querySnapshot)
+        //   const users = [];
   
           querySnapshot.forEach(function(doc) {
-            users.push({
-              sid: doc.data().sid,
-              username: doc.data().username,
-            });
+              console.log(doc.data)
+            // users.push({
+            //   sid: doc.data().sid,
+            //   username: doc.data().username,
+            // });
           });
   
-          this.setState({ users });
+        //   this.setState({ users });
         })
         .catch(function(error) {
           console.log("Error getting documents: ", error);
@@ -50,6 +53,7 @@ export default class TestFireStore extends Component {
     render() {
         return (
             <div>
+                <DatePicker /> 
                 <form onSubmit={this.addUser}>
                     <input
                         type='text'

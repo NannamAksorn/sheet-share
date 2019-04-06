@@ -2,19 +2,36 @@ import React, { Component } from 'react'
 import Nav from 'react-bootstrap/Nav'
 import styles from './SidePanel.css';
 import Clock from './Clock.js'
+import { Menu, Icon } from 'antd';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 export default class SidePanel extends Component {
     render() {
         return (
-            <div className='sidenav'>
-                <Nav defaultActiveKey="/home" className="flex-column align-items-center pt-sm-4 mt-sm-4 rounded bg-dark">
-                    <Nav.Link href="/home" >Home</Nav.Link>
-                    <Nav.Link href="/home">My Course</Nav.Link>
-                    <Nav.Link href="/home">Share</Nav.Link>
-                    <Clock size='150' timeFormat="24hour" hourFormat="standard" />
-                </Nav>
+            <Menu
+                defaultSelectedKeys={['home']}
+                mode="inline"
+                theme="dark"
+            >
+                <Menu.Item key="home">
+                    <Icon type="home" />
+                    <span>Home</span>
+                    <Link to="/" />
+                </Menu.Item>
+                <Menu.Item key="myCourse">
+                    <Icon type='book' />
+                    <span> My Course</span>
+                    <Link to="/test" />
 
-            </div>
+                </Menu.Item>
+                <Menu.Item key="upload">
+                    <Icon type='cloud-upload' />
+                    <span>Upload</span>
+                    <Link to='/upload' />
+                </Menu.Item>
+
+                <Clock size='150' timeFormat="24hour" hourFormat="standard" />
+            </Menu>
         )
     }
 }
