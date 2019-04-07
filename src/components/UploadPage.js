@@ -1,9 +1,13 @@
 import React, { Component } from 'react'
-import { Upload, Icon, message, Button } from 'antd';
+import { Upload, Icon, message, Button, DatePicker } from 'antd';
+import moment from 'moment';
 import firebase from './Firebase';
+import FileViewer from 'react-file-viewer';
+
 const Dragger = Upload.Dragger;
 export default class UploadPage extends Component {
   state = {
+    date:moment(),
     fileList: [],
     uploading: false,
     fileName: "",
@@ -28,12 +32,14 @@ export default class UploadPage extends Component {
     }, () => {
       message.success(`${this.state.fileName} upload successfully.`)
       uploadTask.snapshot.ref.getDownloadURL().then(function (downloadURL) {
-        console.log('File available at', downloadURL);
         const db = firebase.firestore();
-        db.collection(`sheets/${self.state.program}/${self.state.course}`).add({
+        db.collection(`sheets/`).add({
           fileName: self.state.fileName[0],
           description: self.state.description,
           url: downloadURL,
+          program:self.state.program,
+          course: self.state.course,
+          date: self.state.date.unix(),
         });
         self.setState({
           fileList: '',
@@ -57,6 +63,9 @@ export default class UploadPage extends Component {
       [name]: value
     });
   }
+  handleDateChange = (value) => {
+    this.setState({date:value});
+  }
   render() {
     const { uploading, fileList } = this.state;
     const props = {
@@ -71,6 +80,7 @@ export default class UploadPage extends Component {
         });
       },
       beforeUpload: (file) => {
+        console.log(file)
         this.setState({
           fileList: [file],
           fileName: [file.name]
@@ -89,7 +99,9 @@ export default class UploadPage extends Component {
           <p className="ant-upload-text">Click or drag file to this area to upload</p>
           <p className="ant-upload-hint">Support for a single or bulk upload.</p>
         </Dragger>
-
+        <span>Date</span>
+        <br />
+        <DatePicker  defaultValue={this.state.date} onChange={this.handleDateChange} /> 
         <form>
           <label>
             File Name:

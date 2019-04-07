@@ -1,6 +1,8 @@
-import React, { Component } from 'react'
-import firebase from './Firebase'
+import React, { Component } from 'react';
+import firebase from './Firebase';
 import { DatePicker } from 'antd';
+import Iframe from 'react-iframe';
+
 export default class TestFireStore extends Component {
     constructor() {
         super();
@@ -8,30 +10,25 @@ export default class TestFireStore extends Component {
             username: "",
             sid: "",
             users: [],
+            sheets: [],
         };
     }
     componentDidMount() {
         firebase
-        .firestore()
-        .collection("sheets")
-        .get()
-        .then(querySnapshot => {
-            // console.log(querySnapshot)
-        //   const users = [];
-  
-          querySnapshot.forEach(function(doc) {
-              console.log(doc.data)
-            // users.push({
-            //   sid: doc.data().sid,
-            //   username: doc.data().username,
-            // });
-          });
-  
-        //   this.setState({ users });
-        })
-        .catch(function(error) {
-          console.log("Error getting documents: ", error);
-        });
+            .firestore()
+            .collection("sheets")
+            .get()
+            .then(querySnapshot => {
+                const sheets = [];
+                querySnapshot.forEach(function (doc) {
+                    console.log(doc.data())
+                    sheets.push(doc.data());
+                });
+                this.setState({ sheets });
+            })
+            .catch(function (error) {
+                console.log("Error getting documents: ", error);
+            });
     }
     updateInput = e => {
         this.setState({
@@ -42,18 +39,23 @@ export default class TestFireStore extends Component {
         e.preventDefault();
         const db = firebase.firestore();
         db.collection('users').add({
-            username:this.state.username,
-            sid:this.state.sid
+            username: this.state.username,
+            sid: this.state.sid
         });
         this.setState({
-            username:'',
-            sid:''
+            username: '',
+            sid: ''
         });
     };
+    onError(e) {
+        console.log(e, "file-viewer error")
+    }
+    iframe = '<iframe src="https://www.example.com/show?data..." width="540" height="450"></iframe>';
+
     render() {
         return (
             <div>
-                <DatePicker /> 
+                <DatePicker />
                 <form onSubmit={this.addUser}>
                     <input
                         type='text'
@@ -72,12 +74,27 @@ export default class TestFireStore extends Component {
                     <button type="submit">submit</button>
                 </form>
                 <div>
-                    {this.state.users.map(user => {
+                    {this.state.sheets.map((sheet, i) => {
                         return (
-                            <p>
-                                USERNAME: {user.username},
-                                SID: {user.sid},
-                            </p>
+                            <div key={i}>
+                                Sheet Name: {sheet.fileName},
+                                Program: {sheet.program},
+                                course: {sheet.course},
+                                date: {sheet.date},
+                                description: {sheet.description},
+                                {/* <img src={sheet.url} alt="new" />, */}
+                                {/* <FileViewer
+                                    fileType={'png'}
+                                    filePath={'http://localhost:3000/static/media/logo.992cf29a.png'}
+                                    onError={this.onError} /> */}
+                                <Iframe url={sheet.url}
+                                    width="210px"
+                                    height="297px"
+                                    id={i}
+                                    display="initial"
+                                    position="relative"
+                                />
+                            </div>
                         );
                     })}
                 </div>
