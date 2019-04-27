@@ -1,0 +1,791 @@
+code,name,program
+CE381,Hydraulics,CE
+CE802,Advanced Researches in CE I,CE
+CE805,Special Concrete Technology,CE
+CE804,Advanced Structural Dynamics,CE
+CE806,Advanced Soil Mechanics,CE
+CE803,Advanced Researches in CE II,CE
+CE404,CE Project,CE
+CE801,Applied Mathematics,CE
+CE331,Soil Mechanics,CE
+ES804,Selected Topic,CE
+CE301,Engineering Geology,CE
+CE302,Engineering Hydrology,CE
+CE343,Highway Engineering,CE
+CE362,Introduction to Photogrammetry and Remote Sensing,CE
+CE343,Traffic Engineering,CE
+CE899,Thesis,CE
+CE351,Concrete Technology,CE
+CE311,Theory of Structures,CE
+CE401,Soil Dynamics,CE
+CE444,Hydraulic Engineering,CE
+CE312,Structural Analysis,CE
+CE352,Material Testing,CE
+CE313,Concrete Engineering,CE
+CES441,Water Supply and Sanitary Engineering,CE
+CE342,Environmental Studies,CE
+CE332,Soil and Foundation Engineering,CE
+CE372,Mechanics of Solids II,CE
+CE496,Water and Wastewater Engineering,CE
+CE361,Surveying,CE
+CE321,Timber and Steel Design,CE
+CE382,Hydraulics Laboratory,CE
+CE333,Soil Mechanics Laboratory,CE
+CE322,Reinforced Concrete Design,CE
+CE446,Port and Airport Engineering,CE
+CE449,Tunneling and Underground Excavations,CE
+CE341,Transportation Engineering and Planning,CE
+CE445,Structural Dynamics,CE
+CE403,Seminar,CE
+CE371,Mechanics of Solids I,CE
+CE492,Durability of Concrete,CE
+CES393,Building Facility Engineering Laboratory,CE
+CES442,Water Supply and Sanitary Engineering Laboratory,CE
+CE353,Construction Engineering and Management,CE
+CE414,Finite Element Methods in Engineering,CE
+CE423,Building Design,CE
+CE303,CE Training,CE
+CES333,Soil Mechanics Laboratory,CE
+ES898,Master Thesis,CE
+ES899,Doctoral Dissertation,CE
+ES803,Special Study,CE
+CES301,Engineering Geology,CE
+CES362,Introduction to Photogrammetry and Remote Sensing,CE
+CES496,Water and Wastewater Engineering,CE
+CES445,Structural Dynamics,CE
+CES492,Durability of Concrete,CE
+BFS391,BF Laboratory,CE
+CES372,Mechanics of Solids II,CE
+CES449,Tunneling and Underground Excavations,CE
+CES425,Construction Methods and Technologies,CE
+CES313,Concrete Engineering,CE
+CES332,Soil and Foundation Engineering,CE
+CES424,Bridge Engineering,CE
+CES304,Engineering Geology,CE
+CES404,CE Project,CE
+CES446,Port and Airport Engineering,CE
+CES371,Mechanics of Solids I,CE
+CES351,Concrete Technology,CE
+CES322,Reinforced Concrete Design,CE
+CES406,Special Study in CE II,CE
+CES321,Timber and Steel Design,CE
+CES323,Advanced Structural Concrete Design,CE
+CES392,Special Topics in CE II,CE
+CES405,Special Study in CE I,CE
+CES407,Senior Project,CE
+CES408,Extended CE Training,CE
+CES406,Special Studies in CE II,CE
+CES494,Coastal Engineering,CE
+CES426,Durability of Concrete Structures,CE
+CES303,CE Training,CE
+CES362,Field Surveying Camp,CE
+CES341,Transportation Engineering and Planning,CE
+CES381,Hydraulics,CE
+CES382,Hydraulics Laboratory,CE
+CES311,Theory of Structures,CE
+CES331,Soil Mechanics,CE
+CES403,Seminar,CE
+CES353,Construction Engineering and Management,CE
+CES414,Finite Element Methods in Engineering,CE
+CES423,Building Design,CE
+CES450,Urban Engineering,CE
+CES201,Engineering Materials,CE
+CES202,Introduction to Building Facilities,CE
+CES361,Surveying,CE
+CES302,Engineering Hydrology,CE
+CES343,Highway Engineering,CE
+CES312,Structural Analysis,CE
+CES352,Material Testing,CE
+CES370,Mechanics of Materials,CE
+CES444,Hydraulic Engineering,CE
+CES215,Applied Mathematics in CE,CE
+CES315,Computational Methods in CE,CE
+CES391,Special Topics in CE I,CE
+CES332,Foundation Engineering,CE
+CES407,CE Project,CE
+CES405,Special Studies in CE I,CE
+SC140P,Pre-Mathematics and Sciences,CGS
+SC138,Fundamental Physics for Engineers I,CGS
+EL210,English for Engineers I,CGS
+SC126,Chemistry for Engineers,CGS
+SC176,Chemistry Laboratory,CGS
+SC139,Fundamental Physics for Engineers II,CGS
+SCS180,Physics Laboratory,CGS
+SC180,Physics Laboratory,CGS
+BA291,Introduction of Business,CGS
+GTS131,Integrated Life Science,CGS
+ES898,Master Thesis,CGS
+ES899,Doctoral Dissertation,CGS
+EC210,Introductory Economics,CGS
+ES803,Special Study,CGS
+ES804,Selected Topic,CGS
+SCS140M,Pre-Mathametics and Sciences,CGS
+EL310,English for Engineering II,CGS
+SCS140P,Pre-Mathematics and Sciences,CGS
+SCS140G,Pre-General Sciences,CGS
+TU130,Integrated Science and Technology,CGS
+ES802,Research Methodology,CGS
+SCS140M,Pre-Mathematics and Sciences,CGS
+SCS140P,Pre-Physics,CGS
+EL070,English Course I,CGS
+ES801,Advanced Engineering Mathematics,CGS
+EL210,English for Engineering I,CGS
+ES806,Research Seminar,CGS
+GTS132,Introduction to Life Sciences,CGS
+ES805,Research Methodology,CGS
+JP251,Japanese Society and Culture,CGS
+GTS211,Differential Equations and Numerical Methods,CGS
+JP171,Japanese1,CGS
+JP172,Japanese 2,CGS
+GTS112,Linear Algebra,CGS
+SCS126,Chemistry for Engineers,CGS
+SCS138,Applied Physics I,CGS
+GTS132,Introduction to Biological  Science,CGS
+GTS116,Mathematics for Technologists I,CGS
+TU120,Integrated Social Sciences,CGS
+MAS116,Mathematics I,CGS
+SCS139,Applied Physics II,CGS
+GTS231,Law and Technology,CGS
+GTS111,Mathematical Analysis for Management Science,CGS
+TU130,Integrated Sciences and Technology,CGS
+TU110,Integrated Humanities,CGS
+MAS117,Mathematics II,CGS
+EL171,English Course II,CGS
+GTS101,Skills Development  for Technical Studies,CGS
+GTS117,Mathematics for Technologists II,CGS
+MAS210,Mathematics III,CGS
+GTS121,General Science I,CGS
+GTS210,Mathematics for Technologists III,CGS
+EL172,English Course III,CGS
+GTS122,General Science II,CGS
+GTS213,Calculus for Technologists II,CGS
+GTS202,English Language Structures,CGS
+TU100,Civic Education,CGS
+TU100,Civic Engagement,CGS
+GTS401,Intensive English Proficiency,CGS
+TU140,Thai Studies,CGS
+SCS176,Chemistry Laboratory,CGS
+SCS183,Physics Laboratory I,CGS
+MAS215,Differential Equations,CGS
+GTS212,Calculus for Technologists I,CGS
+ES601,Advanced Engineering Mathematics,CGS
+ES605,Research Methodology,CGS
+ES606,Research Seminar,CGS
+TU101,"Thailand, ASEAN, and the World",CGS
+SCS184,Physics Laboratory II,CGS
+GTS302,Technical Writing,CGS
+GTS133,Environmental Studies,CGS
+GTS303,Communications in Business,CGS
+ES603,Special Study,CGS
+ES607,Selected Topic I,CGS
+ES608,Selected Topic II,CGS
+ES609,Selected Topic III,CGS
+ES610,Research Methods and Communications,CGS
+ES807,Thesis,CGS
+ES808,Thesis,CGS
+GTS111,Probability for Technologists,CGS
+GTS112,Principles of Linear Algebra,CGS
+TU050,English Skill Development,CGS
+TU102,Social Life Skills,CGS
+TU103,Life and Sustainability,CGS
+TU104,"Critical Thinking, Reading, and Writing",CGS
+TU105,Communication Skills in English,CGS
+TU106,Creativity and Communication,CGS
+CHS321,Introduction of Cell Biology,CHE
+CHS424,Engineering Properties of Biomaterials,CHE
+CHS351,Unit Operations I,CHE
+CHS403,Senior Project I,CHE
+CHS323,Biochemistry for Engineers,CHE
+CHS333,Kinetics of Enzymatic System,CHE
+CHS313,Statistics for Bioengineering,CHE
+CHS332,Bioreactor Design,CHE
+CHS406,Topics in CHE II,CHE
+CHS453,Unit Operations in BioCHE,CHE
+CHS404,Senior Project II,CHE
+CHS405,Topics in CHE I,CHE
+CHS322,Cell Biology Laboratory,CHE
+CHS426,General Food Science,CHE
+CHS324,Pharmaceutical Industry and Technology,CHE
+CHS334,Bioreactor Design and Enzymatic System,CHE
+CHS356,Transport Phenomena,CHE
+CHS358,Chemical Processing Laboratory,CHE
+CHS463,ES and Management,CHE
+CHS454,CHE Laboratory,CHE
+CHS459,Industrial Chemical Processes,CHE
+CHS485,Special Study in CHE I,CHE
+CHS486,Special Study in CHE II,CHE
+ES804,Selected Topic,CHE
+CHS359,Computer Application for CHE,CHE
+CHS211,Organic Chemistry for Engineers,CHE
+CHS373,Polymer Processing,CHE
+CHS212,Physical Chemistry for Engineers,CHE
+CHS372,Polymer Science and Development,CHE
+CHS321,Cell Biology for Chemical Engineers,CHE
+CHS417,Safety in Chemical Operations,CHE
+CHS483,Special Topics in CHE III,CHE
+CHS487,CHE Extended Training,CHE
+CHS358,Chemical Process Laboratory,CHE
+CHS429,Bio-Chemical Technology Laboratory,CHE
+CHS415,Environmental CHE,CHE
+CHS242,CHE Thermodynamics I,CHE
+CHS455,CHE Process Design,CHE
+CHS251,Unit Operations I,CHE
+CHS482,Special Topics in CHE II,CHE
+CHS343,CHE Thermodynamics II,CHE
+CHS352,Unit Operations II,CHE
+CHS353,Unit Operations III,CHE
+CHS485,Special Studies in CHE I,CHE
+CHS301,CHE Training,CHE
+CHS241,Material and Energy Balance,CHE
+CHS331,Chemical Reaction Kinetics and Reactor Design,CHE
+CHS402,CHE Seminar,CHE
+CHS456,Transport  Phenomena,CHE
+CHS461,Process Dynamics and Control,CHE
+CHS457,CHE Plant Design,CHE
+CHS316,Statistics for CHE,CHE
+CHS362,CHE Laboratory I,CHE
+CHS327,Bio-Chemical Technology,CHE
+CHS211,Organic Chemistry,CHE
+CHS315,Environmental CHE,CHE
+CHS343,Thermodynamics II,CHE
+CHS352,Heat Transfer,CHE
+CHS375,Analytical and Instrumental Chemistry,CHE
+CHS402,Seminar,CHE
+CHS425,General Food Science,CHE
+CHS213,Applied Mathematics in CHE,CHE
+CHS371,Petroleum and Petrochemical Technology,CHE
+CHS481,Special Topics in CHE I,CHE
+CHS484,Senior Project,CHE
+CHS363,CHE Laboratory II,CHE
+CHS328,Pharmaceutical Industry and Technology,CHE
+CHS212,Physical Chemistry,CHE
+CHS242,Thermodynamics I,CHE
+CHS251,Fluid Dynamics,CHE
+CHS317,Safety in Chemical Operations,CHE
+CHS353,Mass Transfer,CHE
+CHS355,CHE Process Design,CHE
+CHS364,Experimental Design and Methods for CHE,CHE
+CHS374,Polymer Science and Engineering,CHE
+CHS484,CHE Project,CHE
+ES604,Selected Topic,CHE
+CSS499,Extended CPE Training,CPE
+CSS300,CPE Training,CPE
+CSS224,Computer Architectures,CPE
+CSS226,Scientific Computing,CPE
+CSS321,Theory of Computation,CPE
+CSS331,Fundamentals of Data Communications,CPE
+CSS400,Project Development,CPE
+CSS433,Computer Vision,CPE
+CSS434,Knowledge Representation and Reasoning,CPE
+CSS442,Computer Interfacing,CPE
+CSS444,Wireless Networks,CPE
+CSS221,Computer Graphics and Applications,CPE
+CSS332,Microcontrollers and Applications,CPE
+CSS333,Parallel and Distributed Computing,CPE
+CSS403,CPE Project,CPE
+CSS431,Machine Learning and Pattern Recognition,CPE
+CSS432,Information Retrieval,CPE
+CSS441,Security and Cryptography,CPE
+CSS443,Real-time and Embedded Systems,CPE
+CSS225,Operating System,CPE
+CSS334,Computer Networks and Internetworking,CPE
+ES898,Master Thesis,CPE
+CSS401,Senior Project I,CPE
+CSS402,Senior Project II,CPE
+CSS221,Computer Graphics and Multimedia,CPE
+CSS222,Object-Oriented Programming in JAVA,CPE
+CSS423,Bioinformatics,CPE
+CSS495,Special Topic in CS I,CPE
+CSS496,Special Topic in CS II,CPE
+CSS223,Principles of Programming Languages,CPE
+CSS323,Compiler Design,CPE
+CSS411,Software Process and Quality Assurance,CPE
+CSS412,Software Architecture,CPE
+CSS421,Pattern Recognition,CPE
+CSS422,Knowledge Management and Discovery,CPE
+CSS221,Computer Graphics and Applications,CPE
+CSS225,Operating System,CPE
+CSS321,Theory of Computation,CPE
+CSS413,Software Verification and Validation,CPE
+CSS414,Software Project Management,CPE
+CSS424,Multimedia Processing,CPE
+CSS400,Project Development,CPE
+CSS322,Scientific Computing,CPE
+CSS499,Extended CS Training,CPE
+CSS300,CS Training,CPE
+CSS224,Computer Architectures,CPE
+CSS403,Senior Project,CPE
+ECS316,Circuit Analysis,EC
+ECS317,Computer Graphics and Tools in EE,EC
+ECS310,Basic EE Laboratory,EC
+ECS318,"Data Structures, Algorithms, and Object Oriented Programming",EC
+ECS372,Signals and Systems,EC
+ECS313,EE Mathematics,EC
+ECS319,Java Programming,EC
+ECS305,Basic EE with Applications,EC
+ECS395,Seminar,EC
+ECS321,Electronic Circuits I,EC
+ECS331,Electromagnetics,EC
+ECS361,Electrical Measurement and Instrumentation,EC
+ECS303,Basic EE,EC
+ECS304,Basic EE Laboratory,EC
+ECS481,Introduction to Robotics,EC
+ECS425,Digital Integrated Circuits,EC
+ECS216,Circuit Analysis,EC
+ECS386,Introduction to Embedded System,EC
+ECS308,Basic Electromechanical Energy Conversion,EC
+ECS341,Mobile Application Programming,EC
+ECS363,Mechatronic Instrumentation,EC
+ECS398,Senior Project,EC
+ECS203,Basic EE,EC
+ECS300,EC Training,EC
+ECS315,Probability and Random Processes,EC
+ECS322,Electronic Circuits II,EC
+ECS332,Principles of Communications,EC
+ECS381,Feedback Control Systems,EC
+ECS396,Project Development,EC
+ECS442,Microwave Principles,EC
+ECS450,Signal Processing and Communication Laboratory,EC
+ECS451,Data Communications and Networks,EC
+ECS456,Optical Communications,EC
+ECS478,Introduction to Computer Vision and Pattern Recognition,EC
+ECS213,EE Mathematics,EC
+ECS217,Computer Tools in EE,EC
+ECS307,Basic Electromechanical Energy Conversion Laboratory,EC
+ECS320,Electronic Circuits Laboratory,EC
+ECS370,Digital Circuits Laboratory,EC
+ECS371,Digital Circuits,EC
+ECS380,Feedback Control Laboratory,EC
+ECS382,Microprocessors,EC
+ECS452,Digital Communication Systems,EC
+ECS472,Digital Signal Processing,EC
+ECS455,Mobile Communications,EC
+ECS462,Antennas,EC
+ECS465,Biomedical Instrumentation,EC
+ECS475,Digital Image Processing,EC
+ECS204,Basic EE Laboratory,EC
+ECS210,Basic EE Laboratory,EC
+ECS218,"Data Structures, Algorithms, and Object Oriented Programming",EC
+ECS231,Electronic Circuits I,EC
+ECS233,Electromagnetics,EC
+ECS261,Electrical Measurement and Instrumentation,EC
+ECS281,Signals and Systems,EC
+ECS306,Basic Electrical Machines and Power Systems,EC
+ECS398,EC Project,EC
+ETS441,Communication Electronics,EE
+ETS442,Microwave Principles,EE
+ETS391,EE Project I,EE
+ES898,Master Thesis,EE
+ES899,Doctoral Dissertation,EE
+ETS472,Digital Signal Processing,EE
+ETS475,Digital Image Processing,EE
+ETS495,Topics in EE II (Fundamental Image Processing),EE
+ETS452,Digital Communication Systems,EE
+ETS462,Antennas,EE
+ETS353,Data Communications,EE
+ETS392,EE Project II,EE
+ETS300,EE Training,EE
+MTS494,Special Study in Engineering Mangement II,EM
+MTS493,Special Study in Engineering Mangement I,EM
+MTS252,Materials Science,EM
+ICT600,Computational Mathematics,ICTES
+ICT740,Communication,ICTES
+ICT710,Software Design Exercise For Embedded Systems,ICTES
+ICT730,Hardware Design Exercise For Embedded Systems,ICTES
+ICT760,Intelligence Processing,ICTES
+ICT770,Environment and Control Systems,ICTES
+ICT700,Software for Embedded Systems,ICTES
+ICT720,Hardware for Embedded Systems,ICTES
+ICT750,Signal Processing,ICTES
+ICT800,Master Thesis,ICTES
+ICT790,Current Topics in Information and Communication Technology,ICTES
+ICT720,Hardware Concepts for Embedded Systems,ICTES
+ICT740,Communication Theory,ICTES
+ICT750,Digital Signal Processing,ICTES
+ICT710,Software Designs for Embedded Systems,ICTES
+ICT730,Hardware Designs for Embedded Systems,ICTES
+ICT770,Control Systems,ICTES
+ICT801,Thesis,ICTES
+ICT700,Software Concepts for Embedded Systems,ICTES
+ICT800,Thesis,ICTES
+IES334,Industrial Robotics and Applications,IE
+IES362,Manufacturing Engineering Laboratory I,IE
+ES898,Master Thesis,IE
+ES899,Doctoral Dissertation,IE
+IE302,Engineering Statistics,IE
+ES803,Special Study,IE
+IES308,Engineering Tools and Operations,IE
+IES311,Ergonomics,IE
+IES333,Computer Integrated Manufacturing,IE
+IES324,Production Sequencing and Scheduling,IE
+IES372,Materials Management and Inventory Control,IE
+IES306,Senior Project II,IE
+IES322,Operations Research II,IE
+IES402,Special Studies in Industrial Engineering I,IE
+IES403,Special Studies in Industrial Engineering II,IE
+IES335,Metrology,IE
+IES365,"Jig, Fixture and Mold Design",IE
+IES402,CLOSED,IE
+IES403,CLOSED,IE
+IES395,Special Topics in Industrial Engineering I,IE
+IES396,Special Topics in Industrial Engineering II,IE
+IES321,Operations Research I,IE
+IES305,Senior Project I,IE
+IES401,Senior Project II,IE
+IES302,Engineering Statistics,IE
+IES304,Industrial Engineering Training,IE
+IES301,Manufacturing Tools and Operations,IE
+IES303,EM and Cost Analysis,IE
+IES312,Methods Analysis and Work Measurement,IE
+IES315,Methods Analysis and Work Measurement Laboratory,IE
+IES331,Quality Control,IE
+IES391,Applied Statistical Methods,IE
+IES343,Safety Engineering,IE
+IES342,Industrial Cost Analysis and Control,IE
+IES332,Factory Automation and Control Methods,IE
+IES336,Industrial Instrument and Controlling System,IE
+IES345,Project Feasibility Study,IE
+IES201,Industrial Engineering Mathematics,IE
+IES305,Industrial Engineering Project I,IE
+IES341,Engineering Economy,IE
+IES361,Manufacturing Process Design,IE
+IES371,EM,IE
+IES313,Industrial Plant Design,IE
+IES323,Production Planning and Control,IE
+IES374,Management Information Systems,IE
+IES364,Manufacturing Processes and Technologies,IE
+IES392,Systems Simulation,IE
+IES351,Maintenance Engineering,IE
+IES353,Pollution Control and Waste Treatment,IE
+IES363,Manufacturing Engineering Laboratory II,IE
+IES394,Artificial Intelligence in Industrial Engineering,IE
+IES376,Logistics and Supply Chain Management,IE
+IES401,Industrial Engineering Project II,IE
+IES303,EM and Cost Analysis,IE
+IES343,Safety Engineering,IE
+IES371,EM,IE
+IT002,Computer Programming,IT
+IT051,Introduction to Computers and Programming,IT
+IT001,Computers for Engineers,IT
+ITS051,Introduction to Computers and Programming,IT
+IT003,Data Structures and Algorithms,IT
+IT006,Programming Laboratory I,IT
+IT010,Data Base Management Systems,IT
+ITS052,Computers and Programming Laboratory,IT
+IT011,Numerical Computation,IT
+IT014,Operating System,IT
+ITS019,IT I,IT
+ITS214,Artificial Intelligence,IT
+ITS013,Programming Laboratory II,IT
+ITS032,Computer Graphics Applications,IT
+ES898,Master Thesis,IT
+ITS012,Principles of Programming Languages,IT
+ITS010,Database Management Systems,IT
+ITS304,Introduction to Decision Support Systems,IT
+ES899,Doctoral Dissertation,IT
+ITS011,Numerical Computation,IT
+ITS023,IT III,IT
+ITS021,IT II,IT
+ITS018,Computer Network Architecture and Protocols,IT
+ITS224,Numerical Computation,IT
+ITS028,IT Training,IT
+ITS006,Programming Laboratory I,IT
+ITS020,IT I Laboratory,IT
+ITS030,Discrete Mathematics,IT
+ITS315,Management Information Systems,IT
+ITS031,Introduction to Data Communications,IT
+ITS041,Foundation of Information Systems,IT
+ITS110,Advance Computer Networks,IT
+ITS116,Tele-services and Services Architecture,IT
+ITS026,Senior Project I,IT
+ITS010,Data Base Management Systems,IT
+ITS216,Intelligent Systems,IT
+ITS324,Foundation of Information Systems,IT
+ITS003,Data Structures and Algorithms,IT
+ITS014,Operating System,IT
+ITS022,IT II Laboratory,IT
+ITS024,IT III Laboratory,IT
+ITS015,Compiler Design,IT
+ITS017,Computer Architectures,IT
+ITS209,Object Oriented Programming,IT
+ITS115,Internet Technologies and Applications,IT
+ITS501,Electronic Commerce,IT
+ITS316,Data Warehouses and Data Mining,IT
+ITS027,Senior Project II,IT
+ITS215,Realtime System Engineering,IT
+ITS042,Microprocessor Applications,IT
+ITS043,System Analysis and Design,IT
+ITS313,Topics in Computer Information Systems II,IT
+ITS330,Object Oriented Programming,IT
+ITS465,IT in Business,IT
+ITS210,Topics in Software Technology I,IT
+ITS312,Topics in Computer Information Systems I,IT
+ITS411,Advanced Computer Networks,IT
+ITS421,Intelligent Systems,IT
+ITS414,Realtime System Engineering,IT
+ITS455,Software Engineering,IT
+ITS328,Microprocessor Applications,IT
+ITS401,Senior Project I,IT
+ITS402,Senior Project II,IT
+ITS222,Principles of Programming Languages,IT
+ITS460,Human Interface Design,IT
+ITS321,Discrete Mathematics,IT
+ITS325,Computer Architectures,IT
+ITS326,Compiler Design,IT
+ITS033,Programming and Algorithms,IT
+ITS225,Operating System,IT
+ITS453,Natural Language Processing,IT
+ITS481,Topics in Hardware and Communications I,IT
+ITS460,Human Computer Interface Design,IT
+ITS468,3D Computer Animation,IT
+ITS392,Business Application Programming,IT
+ITS223,Programming Laboratory I,IT
+ITS425,Management Information Systems,IT
+ITS050,Introduction to Computers and Programming,IT
+ITS226,Programming Laboratory II,IT
+ITS451,Artificial Intelligence,IT
+ITS493,Information Organization and Retrieval,IT
+ITS496,Special Topic in IT II,IT
+ITS496,Special Topics in IT II,IT
+ITS393,Networking and Collaborative Computing,IT
+ITS495,Special Topic in IT I,IT
+ITS227,Algorithm Design,IT
+ITS322,Database Management Systems,IT
+ITS391,Data Structures for Information Processing,IT
+ITS491,Information System Development,IT
+ITS492,Intelligent Information Systems,IT
+ITS432,Real-time and Embedded Systems,IT
+ITS467,Computer Game Design and Development,IT
+ITS332,IT II Laboratory,IT
+ITS333,IT III Laboratory,IT
+ITS431,Mobile Computing,IT
+ITS331,IT I Laboratory,IT
+ITS422,Introduction to Decision Support Systems,IT
+ITS342,3D Computer Animation,IT
+ITS343,Business Application Programming,IT
+ITS403,Senior Project,IT
+ITS423,Data Warehouses and Data Mining,IT
+ITS424,Electronic Commerce,IT
+ITS499,Extended IT Training,IT
+ITS101,Programming and Algorithms,IT
+ITS432,Mobile Application Programming,IT
+ITS300,IT Training,IT
+ITS221,Data Structures and Algorithms,IT
+ITS323,Introduction to Data Communications,IT
+ITS484,Topics in Software Technology I,IT
+ITS485,Topics in Software Technology II,IT
+ITS486,Topics in Software Technology III,IT
+ITS489,Topics in Computer Information Systems III,IT
+ITS441,Accounting Information Systems,IT
+ITS442,Entrepreneurship for IT Business Development,IT
+ITS400,Project Development,IT
+ITS231,Data Structures and Algorithms Laboratory,IT
+ITS341,Management Information Systems,IT
+ITS201,Discrete  Mathematics,IT
+ITS344,Web and Business Application Development,IT
+ITS351,Database Programming Laboratory,IT
+ITS322,Database Systems,IT
+ITS342,Computer Animation,IT
+ITS329,System Analysis and Design,IT
+ITS413,Internet Technologies and Applications,IT
+ITS327,Computer Network Architectures and Protocols,IT
+ITS412,Tele-services and Services Architecture,IT
+ITS482,Topics in Hardware and Communications II,IT
+ITS487,Topics in Computer Information Systems I,IT
+ITS488,Topics in Computer Information Systems II,IT
+ITS335,IT Security,IT
+ITS100,Introduction to Computers and Programming,IT
+ITS102,Object-oriented Programming,IT
+ITS103,Object-oriented Programming Laboratory,IT
+ITS229,Human Computer Interface Design,IT
+ITS336,Artificial Intelligence,IT
+ITS352,Networking Laboratory,IT
+ITS353,Graphic and Game Programming Laboratory,IT
+ITS403,IT Project,IT
+ITS102,Object Oriented Programming,IT
+SE610,Simulation Modeling and Analysis in Supply Chain,LSCSE
+SE617,Accounting and Financial Management for Logistics and Supply Chain Systems,LSCSE
+SE600,Decision Making and Optimization,LSCSE
+SE614,Warehouse Design and Operations,LSCSE
+SE619,Current Topics in Logistics and Supply Chain Systems,LSCSE
+SE615,Operations Scheduling,LSCSE
+SE601,Logistics and Supply Chain Systems,LSCSE
+SE613,Transportation Systems Design and Analysis,LSCSE
+SE616,Design of Experiments in Supply Chain Systems,LSCSE
+SE618,Special Topic in Logistics and Supply Chain Systems,LSCSE
+SE602,Production Logistics,LSCSE
+SE611,Procurement Logistics,LSCSE
+SE800,Masters Thesis,LSCSE
+SE799,Independent Study,LSCSE
+SE631,Special Topics in Logistics and Supply Chain Systems II,LSCSE
+SE632,Current Topics in Logistics and Supply Chain Systems I,LSCSE
+SE630,Special Topics in Logistics and Supply Chain Systems I,LSCSE
+SE800,Thesis,LSCSE
+SE601,Smart Logistics and Supply Chain Systems,LSCSE
+SE618,Logistics Case Study Analysis,LSCSE
+MES412,Combustion and Emission Control,ME
+MES390,CLOSED,ME
+MES344,Thermofluid Engineering,ME
+MES483,Dynamics Control,ME
+MES342,Refrigeration and Air Conditioning,ME
+MES301,Engineering Drawing,ME
+MES381,Measurement and Instrumentation,ME
+ME333,Design of Machine Elements,ME
+ES899,Doctoral Dissertation,ME
+ES804,Selected Topic,ME
+ES803,Special Study,ME
+MES495,Special Topic II in ME,ME
+MCS322,Introduction to Mechatronics,ME
+MES392,ME Laboratory II,ME
+MES404,Senior Project,ME
+MES391,ME Laboratory I,ME
+MES332,Solid Mechanics II,ME
+MAS256,Numerical Methods,ME
+MES403,Seminar,ME
+MES494,Special Topic I in ME,ME
+MCS382,Computer Interfacing,ME
+MCS451,Introduction to Robotics,ME
+MCS321,Real-time and Embedded Systems,ME
+MES494,Special Topic in ME I,ME
+MES404,Senior Project II,ME
+MES413,Advanced Thermodynamics,ME
+EMS443,Renewable Energy Resources,ME
+EMS473,Energy Economics,ME
+MCS361,Mechatronic Instrumentation,ME
+MES495,Special Topic in ME II,ME
+EMS471,Electrical Energy Management,ME
+EMS472,Thermal Energy Management,ME
+EMS211,Thermofluids,ME
+EMS392,Thermal Energy Laboratory,ME
+MES351,Engineering Dynamics,ME
+MES331,Solid Mechanics I,ME
+MES310,Thermodynamics,ME
+MES361,Automotive Engineering,ME
+MES405,Special Study in ME I,ME
+MES406,Special Study  in ME II,ME
+MES393,Thermal Energy Laboratory,ME
+MES471,Electrical Energy Management,ME
+MES350,Engineering Statics,ME
+MES311,Thermodynamics,ME
+MES443,Environmental Control Engineering,ME
+MES341,Fluid Dynamics,ME
+MES371,Material Science for Engineers,ME
+MES403,Senior Project I,ME
+MCS483,Dynamic Systems and Control,ME
+MES231,Engineering Mechanics,ME
+MES407,Senior Project II,ME
+MES211,Thermofluids,ME
+MES303,ME Training,ME
+MES352,Mechanics of Machinery,ME
+MES300,Engineering Drawing,ME
+MES422,Thermal System Design,ME
+MES383,Hydraulic and Pneumatic Control,ME
+MES462,Turbomachinery,ME
+MES381,Measurements and Instrumentation,ME
+MES444,Renewable Energy Resources,ME
+MES474,Thermal Energy Management,ME
+MES481,Power Plant Engineering,ME
+MES403,ME Project I,ME
+MES302,Introduction to Computer Aided Design,ME
+MES321,Heat Transfer,ME
+MES333,Design of Machine Elements,ME
+MES390,Basic ME Laboratory,ME
+MES382,Vibration and Noise Control,ME
+MES473,Energy Economics,ME
+MES312,Combustion and Emission Control,ME
+MES313,Internal Combustion Engines,ME
+MES407,ME Project II,ME
+MES483,Dynamic Systems and Control,ME
+ES898,Master Thesis,MT
+GMS211,Fundamental Financial Accounting,MT
+GMS303,MT Training,MT
+GMS404,Senior Project,MT
+GMS231,Introduction to Quantitative Analysis,MT
+MTS222,Materials Science,MT
+MTS221,Mechanics for Technologists,MT
+GMS201,Principles of Management,MT
+GMS313,Management Accounting,MT
+GMS221,Business Finance,MT
+GMS241,Principles of Marketing,MT
+MTS401,Senior Project,MT
+MTS401,MT Project I,MT
+MTS408,EM Project I,MT
+MTS402,MT Project II,MT
+MTS409,EM Project II,MT
+MTS452,Computerized MT Laboratory,MT
+MTS403,Senior Project Development,MT
+MTS405,Project Proposal Development for MT,MT
+MTS406,Senior Project for MT,MT
+MTS403,Project Proposal Development for EM,MT
+MTS432,Logistics Management,MT
+MTS404,Senior Project for EM,MT
+MTS336,Operations Scheduling,MT
+MTS352,Work Design and Analysis,MT
+MTS491,Special Study in MT I,MT
+MTS302,Extended MT Training,MT
+MTS253,Mechanics for Technologists,MT
+MTS413,Human Resources Management,MT
+MTS453,Business Project Analysis,MT
+MTS251,Resource Economics,MT
+MTS351,Management Systems Optimization,MT
+MTS481,Business Process Simulation,MT
+MTS414,Psychology in MT,MT
+MTS339,Purchasing and Supply Management,MT
+MTS211,Principles of Business,MT
+MTS313,Organizational Behavior,MT
+MTS254,Introduction to Management Science,MT
+MTS311,Fundamental Financial Accounting,MT
+MTS334,Applications of Business Statistics,MT
+MTS412,Business Finance,MT
+MTS382,Database Systems and Applications,MT
+MTS337,Transportation Issues in Logistics,MT
+MTS383,E-Business,MT
+MTS384,Information Systems Softwares,MT
+MTS403,Project Proposal Development,MT
+MTS231,Statistical Methods for Managers,MT
+MTS312,Principles of Marketing,MT
+MTS304,Extended EM Training,MT
+MTS404,Senior Project,MT
+MTS411,Management Accounting,MT
+MTS338,Warehouse Operations Management,MT
+MTS492,Special Study in MT II,MT
+MTS212,Principles of Management,MT
+MTS301,MT Training,MT
+MTS309,EM Training,MT
+MTS393,Current Topics in MT II,MT
+MTS252,Materials Science,MT
+MTS391,Special Topics in MT,MT
+MTS232,Production and Operations Management,MT
+MTS431,Facility Location and Layout Planning,MT
+MTS335,Enterprise Planning and Control Systems,MT
+MTS340,Introduction to Inventory Management,MT
+MTS234,Basic EE for Technologist,MT
+MTS403,MT Seminar,MT
+MTS482,Principles of Decision Support Systems,MT
+MTS486,Introduction to Enterprise Resource Planning,MT
+MTS386,Distributed and Collaborative Computing,MT
+MTS483,Information Systems Implementation,MT
+MTS484,Intelligent Systems for Business,MT
+MTS485,Business Intelligence Technologies and Applications,MT
+MTS337,Transportation and Logistics Management,MT
+MTS384,Information Systems Software,MT
+MTS331,Economic Decision Analysis,MT
+MTS332,Quality Management,MT
+MTS333,Production and Inventory Management,MT
+MTS451,Project Management,MT
+MTS233,Introduction to Supply Chain Management,MT
+MTS314,International Trade and Business,MT
+MTS381,Business Information Systems,MT
+MTS392,Current Topics in MT I,MT
+MTS433,Analysis Techniques for Complex Supply Chain Management Problems,MT
+MTS455,Business Process Management,MT
+MTS251,Economics for Business and Management,MT
+MTS415,Strategic Management,MT
+MTS387,Business Data Communications and Networking,MT
+MTS388,Business Information Systems Analysis,MT
+MTS389,Application Programming for Technologists,MT
+MTS404,MT Project,MT
+MTS404,EM Project,MT
+MTS394,Introduction to Research Methodology in MT,MT
+MMA800,Thesis,MT
+MTS280,Introduction of Algorithms and Object Oriented Programming,MT

@@ -1,0 +1,1013 @@
+code,name,program
+SC140P,Pre-Mathematics and Sciences,Common Studies
+CE381,Hydraulics,Civil Engineering
+CE802,Advanced Researches in Civil Engineering I,Civil Engineering
+CE805,Special Concrete Technology,Civil Engineering
+CE804,Advanced Structural Dynamics,Civil Engineering
+CE806,Advanced Soil Mechanics,Civil Engineering
+CE803,Advanced Researches in Civil Engineering II,Civil Engineering
+IT002,Computer Programming,Information Technology
+CE404,Civil Engineering Project,Civil Engineering
+CE801,Applied Mathematics,Civil Engineering
+IT051,Introduction to Computers and Programming,Information Technology
+CE331,Soil Mechanics,Civil Engineering
+IT001,Computers for Engineers,Information Technology
+ES804,Selected Topic,Civil Engineering
+SC138,Fundamental Physics for Engineers I,Common Studies
+CE301,Engineering Geology,Civil Engineering
+CE302,Engineering Hydrology,Civil Engineering
+CE343,Highway Engineering,Civil Engineering
+CE362,Introduction to Photogrammetry and Remote Sensing,Civil Engineering
+CE343,Traffic Engineering,Civil Engineering
+CE899,Thesis,Civil Engineering
+EL210,English for Engineers I,Common Studies
+CE351,Concrete Technology,Civil Engineering
+ITS051,Introduction to Computers and Programming,Information Technology
+EPS301,Basic Electromechanical Energy Conversion I,Communications
+CE311,Theory of Structures,Civil Engineering
+SC126,Chemistry for Engineers,Common Studies
+CE401,Soil Dynamics,Civil Engineering
+IT003,Data Structures and Algorithms,Information Technology
+IT006,Programming Laboratory I,Information Technology
+IT010,Data Base Management Systems,Information Technology
+SC176,Chemistry Laboratory,Common Studies
+CE444,Hydraulic Engineering,Civil Engineering
+ITS052,Computers and Programming Laboratory,Information Technology
+MES412,Combustion and Emission Control,Mechanical Engineering
+MES390,CLOSED,Mechanical Engineering
+EVS322,Chemical Engineering Kinetics and Reactor Design,Environmental Technology
+CE312,Structural Analysis,Civil Engineering
+CE352,Material Testing,Civil Engineering
+CE313,Concrete Engineering,Civil Engineering
+MES344,Thermofluid Engineering,Mechanical Engineering
+CES441,Water Supply and Sanitary Engineering,Civil Engineering
+CE342,Environmental Studies,Civil Engineering
+CE332,Soil and Foundation Engineering,Civil Engineering
+IT011,Numerical Computation,Information Technology
+SC139,Fundamental Physics for Engineers II,Common Studies
+IT014,Operating System,Information Technology
+CE372,Mechanics of Solids II,Civil Engineering
+CE496,Water and Wastewater Engineering,Civil Engineering
+CE361,Surveying,Civil Engineering
+CE321,Timber and Steel Design,Civil Engineering
+CE382,Hydraulics Laboratory,Civil Engineering
+CE333,Soil Mechanics Laboratory,Civil Engineering
+EV413,Environmental Technology Seminar,Environmental Technology
+ITS019,Information Technology I,Information Technology
+EPS321,Electromechanical Energy Conversion I,Communications
+CE322,Reinforced Concrete Design,Civil Engineering
+CE446,Port and Airport Engineering,Civil Engineering
+EVS321,Unit Operations in Environmental Technology,Environmental Technology
+EVS423,Pollution Control and Waste Treatment I,Environmental Technology
+CE449,Tunneling and Underground Excavations,Civil Engineering
+CE341,Transportation Engineering and Planning,Civil Engineering
+ITS214,Artificial Intelligence,Information Technology
+MES483,Dynamics Control,Mechanical Engineering
+EVS424,Industrial Waste Treatment and Management,Environmental Technology
+CE445,Structural Dynamics,Civil Engineering
+CE403,Seminar,Civil Engineering
+CE371,Mechanics of Solids I,Civil Engineering
+SCS180,Physics Laboratory,Common Studies
+EVS311,Industrial Hygiene Engineering,Environmental Technology
+ITS013,Programming Laboratory II,Information Technology
+BFS302,Computer Networking for Buildings,Building Facilities Engineering
+MES342,Refrigeration and Air Conditioning,Mechanical Engineering
+BFS308,Air Conditioning Systems for Buildings,Building Facilities Engineering
+EMS444,Power Generation and Environment,Energy Technology
+EPS441,Power System Analysis,Communications
+EPS320,Electromechanical Energy Conversion Laboratory,Communications
+CE492,Durability of Concrete,Civil Engineering
+IES334,Industrial Robotics and Applications,Industrial  Engineering
+IES362,Manufacturing Engineering Laboratory I,Industrial  Engineering
+EVS422,Wastewater Engineering Design,Environmental Technology
+BFS391,Building Facilities Engineering Laboratory,Building Facilities Engineering
+CES393,Building Facility Engineering Laboratory,Civil Engineering
+CES442,Water Supply and Sanitary Engineering Laboratory,Civil Engineering
+TCS323,Physical Electronics,Communications
+CE353,Construction Engineering and Management,Civil Engineering
+CE414,Finite Element Methods in Engineering,Civil Engineering
+CE423,Building Design,Civil Engineering
+ITS032,Computer Graphics Applications,Information Technology
+SC180,Physics Laboratory,Common Studies
+BA291,Introduction of Business,Common Studies
+EMS303,Energy Technology and Management Training,Energy Technology
+CE303,Civil Engineering Training,Civil Engineering
+BFS306,Building Facilities Engineering Training,Building Facilities Engineering
+ES898,Master Thesis,Information Technology
+ITS012,Principles of Programming Languages,Information Technology
+MES301,Engineering Drawing,Mechanical Engineering
+ETS312,Circuit Analysis II,Telecommunications
+EPS322,Electromechanical Energy Conversion II,Communications
+ITS010,Database Management Systems,Information Technology
+MES381,Measurement and Instrumentation,Mechanical Engineering
+EVS212,Environmental Chemistry Laboratory,Environmental Technology
+ETS322,Electronic Circuits II,Telecommunications
+ETS316,Circuit Analysis,Telecommunications
+EMS443,Renewable Energy Resouces,Energy Technology
+EVS314,Water Quality Management,Environmental Technology
+ETS441,Communication Electronics,Electrical Engineering
+ETS493,Topics in Electrical Engineering I (Wireless Communications),Telecommunications
+ETS442,Microwave Principles,Electrical Engineering
+CES333,Soil Mechanics Laboratory,Civil Engineering
+ETS391,Electrical Engineering Project I,Electrical Engineering
+ETS320,Electronic Circuits Laboratory,Telecommunications
+ETS481,Introduction to Robotics,Telecommunications
+ETS394,Computer Interfacing,Telecommunications
+EVS421,Water Engineering,Environmental Technology
+EMS381,Measurement and Instrumentation,Energy Technology
+EMS494,Energy Seminar,Energy Technology
+GTS131,Integrated Life Science,Common Studies
+ITS304,Introduction to Decision Support Systems,Information Technology
+ES898,Master Thesis,Management Technology
+ES898,Master Thesis,Industrial  Engineering
+ES899,Doctoral Dissertation,Industrial  Engineering
+IE302,Engineering Statistics,Industrial  Engineering
+GMS211,Fundamental Financial Accounting,Management Technology
+ME333,Design of Machine Elements,Mechanical Engineering
+ES898,Master Thesis,Civil Engineering
+ES898,Master Thesis,Electrical Engineering
+ES899,Doctoral Dissertation,Building Facilities Engineering
+ES899,Doctoral Dissertation,Civil Engineering
+ES899,Doctoral Dissertation,Electrical Engineering
+ES899,Doctoral Dissertation,Information Technology
+ES899,Doctoral Dissertation,Mechanical Engineering
+ES899,Doctoral Dissertation,Energy Technology
+ES899,Doctoral Dissertation,Environmental Technology
+ES804,Selected Topic,Mechanical Engineering
+ES804,Selected Topic,Mechatronics
+ES803,Special Study,Civil Engineering
+ES803,Special Study,Telecommunications
+ES803,Special Study,Industrial  Engineering
+ES803,Special Study,Mechanical Engineering
+ES803,Special Study,Mechatronics
+ETS493,Topics in Electrical Engineering I (Realtime and Embeded Systems),Telecommunications
+ETS371,Digital Circuits,Telecommunications
+ITS011,Numerical Computation,Information Technology
+ETS310,Basic Electrical Engineering Laboratory,Telecommunications
+CES301,Engineering Geology,Civil Engineering
+CES362,Introduction to Photogrammetry and Remote Sensing,Civil Engineering
+ITS023,Information Technology III,Information Technology
+ETS361,Measurements and Instrumentation,Telecommunications
+BFS304,Durability of Building Materials,Building Facilities Engineering
+ITS021,Information Technology II,Information Technology
+ETS324,Electronic Devices and Basic Circuits,Telecommunications
+ETS472,Digital Signal Processing,Electrical Engineering
+EVS323,Building Sanitation,Environmental Technology
+ITS018,Computer Network Architecture and Protocols,Information Technology
+EMS496,Senior Projects,Energy Technology
+EMS343,Thermal Environment Control,Energy Technology
+ES898,Master Thesis,Common Studies
+ES899,Doctoral Dissertation,Common Studies
+EPS433,Special Topic in Electrical Power Engineering I,Communications
+EPS434,Special Topic in Electrical Power Engineering II,Communications
+BFS401,Automatic Control for Buildings,Building Facilities Engineering
+BFS492,Water Supply and Sanitary Engineering Laboratory,Building Facilities Engineering
+ITS224,Numerical Computation,Information Technology
+EC210,Introductory Economics,Common Studies
+ETS475,Digital Image Processing,Electrical Engineering
+ETS495,Topics in Electrical Engineering II (Fundamental Image Processing),Electrical Engineering
+EMS497,Special Topic in Energy Technology I,Energy Technology
+EMS413,Advanced Thermodynamics,Energy Technology
+EPS324,Electrical Machines I,Communications
+MES495,Special Topic II in Mechanical Engineering,Mechanical Engineering
+ES803,Special Study,Common Studies
+ES804,Selected Topic,Common Studies
+ITS028,Information Technology Training,Information Technology
+GMS303,Management Technology Training,Management Technology
+ETS311,Circuit Analysis I,Telecommunications
+ITS006,Programming Laboratory I,Information Technology
+ETS313,Electrical Engineering Mathematics,Telecommunications
+ETS301,Basic Circuit Analysis,Telecommunications
+IES308,Engineering Tools and Operations,Industrial  Engineering
+ITS020,Information Technology I Laboratory,Information Technology
+ETS314,Computer and Numerical Tools in Electrical Engineering,Telecommunications
+ETS315,Probability and Random Processes,Telecommunications
+ETS370,Digital Circuit Laboratory,Telecommunications
+ITS030,Discrete Mathematics,Information Technology
+EPS331,Power Systems,Communications
+ETS381,Feedback Control Systems,Telecommunications
+CES496,Water and Wastewater Engineering,Civil Engineering
+BFS403,Water Supply and Sanitary Engineering,Building Facilities Engineering
+CES445,Structural Dynamics,Civil Engineering
+EPS323,Electrical Machines,Communications
+ETS317,Computer Graphics and Tools in Electrical Engineering,Telecommunications
+ETS452,Digital Communication Systems,Electrical Engineering
+ITS315,Management Information Systems,Information Technology
+ITS031,Introduction to Data Communications,Information Technology
+ITS041,Foundation of Information Systems,Information Technology
+ITS110,Advance Computer Networks,Information Technology
+ITS116,Tele-services and Services Architecture,Information Technology
+ITS026,Senior Project I,Information Technology
+ETS325,Analog Circuits,Telecommunications
+MCS322,Introduction to Mechatronics,Mechanical Engineering
+ETS462,Antennas,Electrical Engineering
+SCS140M,Pre-Mathametics and Sciences,Common Studies
+ITS010,Data Base Management Systems,Information Technology
+BFS305,Fluid Machines for Buildings,Building Facilities Engineering
+BFS406,"Building Protection, Repair and Maintenance",Building Facilities Engineering
+BFS494,Seminar,Building Facilities Engineering
+ETS353,Data Communications,Electrical Engineering
+ITS216,Intelligent Systems,Information Technology
+ETS391,Electrical Engineering Project I,Telecommunications
+ITS324,Foundation of Information Systems,Information Technology
+EPS325,Electrical Machines II,Communications
+TCS477,Signal Processing for Communication Systems,Communications
+EL310,English for Engineering II,Common Studies
+ETS304,Basic Electrical Engineering Laboratory,Telecommunications
+ITS003,Data Structures and Algorithms,Information Technology
+ITS014,Operating System,Information Technology
+ETS321,Electronic Circuits I,Telecommunications
+ETS372,Signals and Systems,Telecommunications
+ETS302,Basic Electronic Circuits,Telecommunications
+IES311,Ergonomics,Industrial  Engineering
+ITS022,Information Technology II Laboratory,Information Technology
+ITS024,Information Technology III Laboratory,Information Technology
+ITS015,Compiler Design,Information Technology
+ETS332,Principles of Communications,Telecommunications
+MES392,Mechanical Engineering Laboratory II,Mechanical Engineering
+EPS332,Electrical System Design,Communications
+EMS391,Electrical Energy Laboratory,Energy Technology
+ETS392,Electrical Engineering Project II,Electrical Engineering
+ITS017,Computer Architectures,Information Technology
+ITS209,Object Oriented Programming,Information Technology
+ITS115,Internet Technologies and Applications,Information Technology
+ITS501,Electronic Commerce,Information Technology
+ITS316,Data Warehouses and Data Mining,Information Technology
+ITS027,Senior Project II,Information Technology
+ITS215,Realtime System Engineering,Information Technology
+ITS042,Microprocessor Applications,Information Technology
+ITS043,System Analysis and Design,Information Technology
+BFS402,Electrical System Design in Buildings,Building Facilities Engineering
+MES404,Senior Project,Mechanical Engineering
+EPS451,High Voltage Engineering,Communications
+EPS305,Electrical Power Engineering Laboratory,Communications
+CES492,Durability of Concrete,Civil Engineering
+BFS495,Building Facilities Engineering Project,Building Facilities Engineering
+ITS313,Topics in Computer Information Systems II,Information Technology
+TCS441,Communication Electronics,Communications
+EPS308,Electrical Machines Laboratory,Communications
+BFS391,Building Facilities Engineering Laboratory,Civil Engineering
+ITS330,Object Oriented Programming,Information Technology
+ITS465,Information Technology in Business,Information Technology
+TCS493,Topics in Telecommunications I (Computer Vision),Telecommunications
+SCS140P,Pre-Mathematics and Sciences,Common Studies
+ETS300,Electrical Engineering Training,Electrical Engineering
+GMS404,Senior Project,Management Technology
+ETS303,Basic Electrical Engineering,Communications
+MES391,Mechanical Engineering Laboratory I,Mechanical Engineering
+SCS140G,Pre-General Sciences,Common Studies
+EPS471,Power Electronics,Communications
+ES804,Selected Topic,Building Facilities Engineering
+EPS431,Electrical Power Engineering Project I,Communications
+IES333,Computer Integrated Manufacturing,Industrial  Engineering
+EPS443,Power System Dynamics and Stability,Communications
+ES803,Special Study,Building Facilities Engineering
+TCS462,Antennas,Communications
+ITS210,Topics in Software Technology I,Information Technology
+ITS312,Topics in Computer Information Systems I,Information Technology
+EPS421,Electric Drives,Communications
+TCS431,Industrial Electronics,Communications
+EPS444,Power System Operation and Control,Communications
+ITS411,Advanced Computer Networks,Information Technology
+ITS421,Intelligent Systems,Information Technology
+MES332,Solid Mechanics II,Mechanical Engineering
+ETS382,Microprocessors,Telecommunications
+ETS331,Electromagnetics,Telecommunications
+CES372,Mechanics of Solids II,Civil Engineering
+GMS231,Introduction to Quantitative Analysis,Management Technology
+EPS304,Basic Electromechanical Energy Conversion Laboratory,Electrical Power Engineering
+EPS442,Power System Protection,Communications
+IES324,Production Sequencing and Scheduling,Industrial  Engineering
+TCS391,Telecommunications Project I,Communications
+EPS432,Electrical Power Engineering Project II,Communications
+TCS495,Topics in Telecommunications II    (Java Programing),Communications
+ITS414,Realtime System Engineering,Information Technology
+ITS455,Software Engineering,Information Technology
+EPS300,Electrical Power Engineering Training,Communications
+MAS256,Numerical Methods,Mechanical Engineering
+EVS315,Air and Noise Pollution Control,Environmental Technology
+EVS312,Environmental Technology Laboratory,Environmental Technology
+EVS332,Pollution Prevention,Environmental Technology
+EVS333,Energy and  Environment,Environmental Technology
+CES449,Tunneling and Underground Excavations,Civil Engineering
+MTS222,Materials Science,Management Technology
+MES403,Seminar,Mechanical Engineering
+TCS316,Circuit Analysis,Communications
+EVS335,Environmental Quality Management,Environmental Technology
+MTS221,Mechanics for Technologists,Management Technology
+INS468,Real-time and Embedded Systems,Communications
+EVS336,Principles of Natural Resource Management,Environmental Technology
+TCS454,Fiber Optics,Communications
+TCS392,Telecommunications Project II,Communications
+CHS321,Introduction of Cell Biology,Chemical Engineering
+CHS424,Engineering Properties of Biomaterials,Chemical Engineering
+CES425,Construction Methods and Technologies,Civil Engineering
+EVS211,Environmental Chemistry,Environmental Technology
+CES313,Concrete Engineering,Civil Engineering
+CES332,Soil and Foundation Engineering,Civil Engineering
+GMS201,Principles of Management,Management Technology
+EVS331,Social Aspect of Environmental Management,Environmental Technology
+EVS432,Solid and Hazardous Waste Management,Environmental Technology
+EVS334,Fundamental of Industrial Operations and Processes,Environmental Technology
+GMS313,Management Accounting,Management Technology
+GMS221,Business Finance,Management Technology
+EVS316,Advanced Environmental Technology Laboratory,Environmental Technology
+MES494,Special Topic I in Mechanical Engineering,Mechanical Engineering
+TCS495,Topics in Telecommunications II   (Optical sensor technology),Communications
+ES898,Master Thesis,Computer Science
+ES319,Biology for Environmental Engineers,Environmental Technology
+ES211,Ecology,Environmental Technology
+ES428,Urbanisation and Urban Environment,Environmental Technology
+ES332,Environmental Economics,Environmental Technology
+TU130,Integrated Science and Technology,Common Studies
+EVS413,Environmental Technology Seminar,Environmental Technology
+GMS241,Principles of Marketing,Management Technology
+EVS431,Environmental Health and Sanitation,Environmental Technology
+ES802,Research Methodology,Common Studies
+IES372,Materials Management and Inventory Control,Industrial  Engineering
+EVS441,Selected Topics in Environmental Technology I,Environmental Technology
+SCS140M,Pre-Mathematics and Sciences,Common Studies
+CHS351,Unit Operations I,Chemical Engineering
+CHS403,Senior Project I,Chemical Engineering
+CSS401,Senior Project I,Computer Science
+SCS140P,Pre-Physics,Common Studies
+MTS401,Senior Project,Management Technology
+ES322,Water and Wastewater Analysis,Environmental Technology
+ES431,Environmental Impact Assessment,Environmental Technology
+ES432,Environmental Law,Environmental Technology
+INS362,Electronic Instrumentation,Communications
+EVS414,Senior Project,Environmental Technology
+TCS324,Electronic Devices and Basic Circuits,Communications
+CES424,Bridge Engineering,Civil Engineering
+TCS318,"Data Structures, Algorithms, and Object Oriented Programming",Communications
+CHS323,Biochemistry for Engineers,Chemical Engineering
+CHS333,Kinetics of Enzymatic System,Chemical Engineering
+TCS319,Java Programming,Communications
+CSS402,Senior Project II,Computer Science
+EVS213,Water and Wastewater Analysis Laboratory,Environmental Technology
+SE610,Simulation Modeling and Analysis in Supply Chain,Logistics and Supply Chain Systems Engineering
+EVS442,Selected Topics in Environmental Technology II,Environmental Technology
+TCS305,Basic Electrical Engineering with Applications,Communications
+EL070,English Course I,Common Studies
+ES247,Environmental System and Data Analysis,Environmental Technology
+INS381,Feedback Control Systems,Communications
+TCS310,Basic Electrical Engineering Laboratory,Communications
+TCS371,Digital Circuits,Communications
+TCS317,Computer Graphics and Tools in Electrical Engineering,Communications
+MCS382,Computer Interfacing,Mechanical Engineering
+MCS451,Introduction to Robotics,Mechanical Engineering
+TCS313,Electrical Engineering Mathematics,Communications
+TCS325,Analog Circuits,Communications
+TCS370,Digital Circuit Laboratory,Communications
+MTS401,Management Technology Project I,Management Technology
+TCS315,Probability and Random Processes,Communications
+TCS493,Topics in Telecommunications I,Communications
+CHS313,Statistics for Bioengineering,Chemical Engineering
+CHS332,Bioreactor Design,Chemical Engineering
+CHS406,Topics in Chemical Engineering II,Chemical Engineering
+CHS453,Unit Operations in Biochemical Engineering,Chemical Engineering
+MTS408,Engineering Management Project I,Management Technology
+ECS316,Circuit Analysis,Electronics and Communication Engineering
+ECS317,Computer Graphics and Tools in Electrical Engineering,Electronics and Communication Engineering
+SE617,Accounting and Financial Management for Logistics and Supply Chain Systems,Logistics and Supply Chain Systems Engineering
+IES306,Senior Project II,Industrial  Engineering
+EVS313,Environmental Technology Training,Environmental Technology
+INS380,Feedback Control Labboratory,Communications
+MCS321,Real-time and Embedded Systems,Mechanical Engineering
+TCS304,Basic Electrical Engineering Laboratory,Communications
+TCS451,Data Communications and Networks,Communications
+TCS442,Microwave Principles,Communications
+TCS382,Microprocessors,Communications
+CES304,Engineering Geology,Civil Engineering
+TCS455,Mobile Communications,Communications
+TCS331,Electromagnetics,Communications
+TCS372,Signals and Systems,Communications
+TCS472,Digital Signal Processing,Communications
+ITS328,Microprocessor Applications,Information Technology
+ITS401,Senior Project I,Information Technology
+ITS402,Senior Project II,Information Technology
+TCS332,Principles of Communications,Communications
+TCS475,Digital Image Processing,Communications
+CHS404,Senior Project II,Chemical Engineering
+CHS405,Topics in Chemical Engineering I,Chemical Engineering
+TCS397,Senior Project,Communications
+MTS402,Management Technology Project II,Management Technology
+MTS409,Engineering Management Project II,Management Technology
+MTS452,Computerized Management Technology Laboratory,Management Technology
+ECS310,Basic Electrical Engineering Laboratory,Electronics and Communication Engineering
+ECS318,"Data Structures, Algorithms, and Object Oriented Programming",Electronics and Communication Engineering
+ECS372,Signals and Systems,Electronics and Communication Engineering
+MES494,Special Topic in Mechanical Engineering I,Mechanical Engineering
+TCS300,Telecommunications Training,Communications
+MES404,Senior Project II,Mechanical Engineering
+EVS150,Environmental Studies,Environmental Technology
+TCS301,Basic Circuit Analysis,Communications
+TCS320,Electronic Circuits Laboratory,Communications
+TCS452,Digital Communication Systems,Communications
+CHS322,Cell Biology Laboratory,Chemical Engineering
+TCS395,Seminar,Communications
+TCS396,Project Development,Communications
+TCS456,Optical Communications,Communications
+MCS352,Microcontroller and Computer Interfacing,Mechatronics
+MTS403,Senior Project Development,Management Technology
+ET650,Special Topic in Mechanical Engineering,Engineering Technology
+ET651,Current Topics in Mechanical Engineering,Engineering Technology
+CHS426,General Food Science,Chemical Engineering
+ECS313,Electrical Engineering Mathematics,Electronics and Communication Engineering
+ET614,Advanced Chemical Kinetics and Reactor Design,Engineering Technology
+TCS398,Senior Project,Communications
+IES322,Operations Research II,Industrial  Engineering
+MES413,Advanced Thermodynamics,Mechanical Engineering
+CES404,Civil Engineering Project,Civil Engineering
+TCS302,Basic Electronic Circuits,Communications
+EPS306,Basic Electrical Machines and Power Systems,Telecommunications
+ITS222,Principles of Programming Languages,Information Technology
+ITS460,Human Interface Design,Information Technology
+CSS221,Computer Graphics and Multimedia,Computer Science
+ET640,Special Topic in Industrial Engineering and Manufacturing Systems,Engineering Technology
+CHS324,Pharmaceutical Industry and Technology,Chemical Engineering
+CHS334,Bioreactor Design and Enzymatic System,Chemical Engineering
+CHS356,Transport Phenomena,Chemical Engineering
+CHS358,Chemical Processing Laboratory,Chemical Engineering
+CHS463,Energy Technology and Management,Chemical Engineering
+ECS319,Java Programming,Electronics and Communication Engineering
+IES402,Special Studies in Industrial Engineering I,Industrial  Engineering
+IES403,Special Studies in Industrial Engineering II,Industrial  Engineering
+ET653,Optimization Methods in Mechanical Engineering,Engineering Technology
+ET654,Advanced Heat Transfer,Engineering Technology
+ET656,Computational Fluid Dynamics,Engineering Technology
+BFS307,Engineering Materials,Building Facilities Engineering
+CES446,Port and Airport Engineering,Civil Engineering
+ITS321,Discrete Mathematics,Information Technology
+ITS325,Computer Architectures,Information Technology
+ITS326,Compiler Design,Information Technology
+EMS443,Renewable Energy Resources,Mechanical Engineering
+CHS454,Chemical Engineering Laboratory,Chemical Engineering
+ET600,Numerical Methods for Engineers,Engineering Technology
+SE600,Decision Making and Optimization,Logistics and Supply Chain Systems Engineering
+CHS459,Industrial Chemical Processes,Chemical Engineering
+ECS305,Basic Electrical Engineering with Applications,Electronics and Communication Engineering
+ECS395,Seminar,Electronics and Communication Engineering
+SE614,Warehouse Design and Operations,Logistics and Supply Chain Systems Engineering
+ET622,Finite Element Methods,Engineering Technology
+MTS405,Project Proposal Development for Management Technology,Management Technology
+ITS033,Programming and Algorithms,Information Technology
+EMS473,Energy Economics,Mechanical Engineering
+MCS361,Mechatronic Instrumentation,Mechanical Engineering
+ES801,Advanced Engineering Mathematics,Common Studies
+BFS309,Durability of Construction Materials,Building Facilities Engineering
+ITS225,Operating System,Information Technology
+ITS453,Natural Language Processing,Information Technology
+ITS481,Topics in Hardware and Communications I,Information Technology
+ICT600,Computational Mathematics,Information and Communication Technology for Embedded Systems
+ET620,Special Topic in Civil Engineering,Engineering Technology
+ET621,Current Topics in Civil Engineering,Engineering Technology
+ECS321,Electronic Circuits I,Electronics and Communication Engineering
+ECS331,Electromagnetics,Electronics and Communication Engineering
+ECS361,Electrical Measurement and Instrumentation,Electronics and Communication Engineering
+SE619,Current Topics in Logistics and Supply Chain Systems,Logistics and Supply Chain Systems Engineering
+ET626,"Inspection, Maintenance and Retrofit of Concrete Structures",Engineering Technology
+MES495,Special Topic in Mechanical Engineering II,Mechanical Engineering
+ITS460,Human Computer Interface Design,Information Technology
+ITS468,3D Computer Animation,Information Technology
+EL210,English for Engineering I,Common Studies
+MTS406,Senior Project for Management Technology,Management Technology
+EMS312,Combustion and Emission Control,Energy Technology
+EMS471,Electrical Energy Management,Mechanical Engineering
+EMS472,Thermal Energy Management,Mechanical Engineering
+ITS392,Business Application Programming,Information Technology
+ITS223,Programming Laboratory I,Information Technology
+TCS303,Basic Electrical Engineering,Communications
+ITS425,Management Information Systems,Information Technology
+ES806,Research Seminar,Common Studies
+ES800,Master's Thesis,Engineering Technology
+ECS303,Basic Electrical Engineering,Electronics and Communication Engineering
+ECS304,Basic Electrical Engineering Laboratory,Electronics and Communication Engineering
+SE615,Operations Scheduling,Logistics and Supply Chain Systems Engineering
+ICT740,Communication,Information and Communication Technology for Embedded Systems
+ET618,Biochemical Engineering Fundamentals,Engineering Technology
+MTS403,Project Proposal Development for Engineering Management,Management Technology
+ET660,Special Topic in Sustainable Energy and Environment,Engineering Technology
+ES900,Doctoral Dissertation (CLOSED),Doctor of Philosophy
+ET661,Current Topics in Sustainable Energy and Environment,Engineering Technology
+ITS050,Introduction to Computers and Programming,Information Technology
+IES335,Metrology,Industrial  Engineering
+EPS301,Basic Electromechanical Energy Conversion,Telecommunications
+EMS211,Thermofluids,Mechanical Engineering
+EMS392,Thermal Energy Laboratory,Mechanical Engineering
+IES365,"Jig, Fixture and Mold Design",Industrial  Engineering
+ITS226,Programming Laboratory II,Information Technology
+ITS451,Artificial Intelligence,Information Technology
+CSS222,Object-Oriented Programming in JAVA,Computer Science
+MTS432,Logistics Management,Management Technology
+GTS132,Introduction to Life Sciences,Common Studies
+ES805,Research Methodology,Common Studies
+ET601,Computer-Aided Engineering,Engineering Technology
+ET611,Current Topics in Chemical Engineering,Engineering Technology
+CHS485,Special Study in Chemical Engineering I,Chemical Engineering
+CHS486,Special Study in Chemical engineering II,Chemical Engineering
+SE601,Logistics and Supply Chain Systems,Logistics and Supply Chain Systems Engineering
+SE613,Transportation Systems Design and Analysis,Logistics and Supply Chain Systems Engineering
+SE616,Design of Experiments in Supply Chain Systems,Logistics and Supply Chain Systems Engineering
+SE618,Special Topic in Logistics and Supply Chain Systems,Logistics and Supply Chain Systems Engineering
+ICT710,Software Design Exercise For Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT730,Hardware Design Exercise For Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT760,Intelligence Processing,Information and Communication Technology for Embedded Systems
+ICT770,Environment and Control Systems,Information and Communication Technology for Embedded Systems
+MTS404,Senior Project for Engineering Management,Management Technology
+ECS481,Introduction to Robotics,Electronics and Communication Engineering
+IES402,CLOSED,Industrial  Engineering
+IES403,CLOSED,Industrial  Engineering
+ES899,Doctoral Dissertation,Doctor of Philosophy
+ET668,Pollution Control and Management,Engineering Technology
+ES804,Selected Topic,Chemical Engineering
+EPS304,Basic Electromechanical Energy Conversion Laboratory,Communications
+ITS493,Information Organization and Retrieval,Information Technology
+ET613,Advanced Transport Phenomena,Engineering Technology
+ET612,Advanced Thermodynamics for Chemical Engineering,Engineering Technology
+SE602,Production Logistics,Logistics and Supply Chain Systems Engineering
+SE611,Procurement Logistics,Logistics and Supply Chain Systems Engineering
+ICT700,Software for Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT720,Hardware for Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT750,Signal Processing,Information and Communication Technology for Embedded Systems
+ET665,Energy Planning and Policy,Engineering Technology
+ES898,Master Thesis,Master of Science
+CSS423,Bioinformatics,Computer Science
+MTS336,Operations Scheduling,Management Technology
+ET610,Special Topic in Chemical Engineering,Engineering Technology
+ET616,Advances in Polymer Science and Technology,Engineering Technology
+CSS495,Special Topic in Computer Science I,Computer Science
+CSS496,Special Topic in Computer Science II,Computer Science
+ECS425,Digital Integrated Circuits,Electronics and Communication Engineering
+ICT800,Master Thesis,Information and Communication Technology for Embedded Systems
+ITS496,Special Topic in Information Technology II,Information Technology
+JP251,Japanese Society and Culture,Common Studies
+CSS223,Principles of Programming Languages,Computer Science
+ITS496,Special Topics in Information Technology II,Information Technology
+ET662,Energy and Environmental Impact Assessment,Engineering Technology
+GTS211,Differential Equations and Numerical Methods,Common Studies
+ITS393,Networking and Collaborative Computing,Information Technology
+JP171,Japanese1,Common Studies
+CSS323,Compiler Design,Computer Science
+ECS216,Circuit Analysis,Electronics and Communication Engineering
+CHS359,Computer Application for Chemical Engineering,Chemical Engineering
+ET682,Polymeric Materials,Engineering Technology
+MES351,Engineering Dynamics,Mechanical Engineering
+MES331,Solid Mechanics I,Mechanical Engineering
+MES310,Thermodynamics,Mechanical Engineering
+CES371,Mechanics of Solids I,Civil Engineering
+MES361,Automotive Engineering,Mechanical Engineering
+IES395,Special Topics in Industrial Engineering I,Industrial  Engineering
+IES396,Special Topics in Industrial Engineering II,Industrial  Engineering
+CHS211,Organic Chemistry for Engineers,Chemical Engineering
+CSS411,Software Process and Quality Assurance,Computer Science
+CSS412,Software Architecture,Computer Science
+CSS421,Pattern Recognition,Computer Science
+CSS422,Knowledge Management and Discovery,Computer Science
+MTS352,Work Design and Analysis,Management Technology
+JP172,Japanese 2,Common Studies
+MTS491,Special Study in Management Technology I,Management Technology
+CHS373,Polymer Processing,Chemical Engineering
+SE800,Masters Thesis,Logistics and Supply Chain Systems Engineering
+ITS495,Special Topic in Information Technology I,Information Technology
+MES405,Special Study in Mechanical Engineering I,Mechanical Engineering
+MES406,Special Study  in Mechanical Engineering II,Mechanical Engineering
+MTS302,Extended Management Technology Training,Management Technology
+MES393,Thermal Energy Laboratory,Mechanical Engineering
+MES471,Electrical Energy Management,Mechanical Engineering
+ITS227,Algorithm Design,Information Technology
+CSS221,Computer Graphics and Applications,Computer Science
+CSS225,Operating System,Computer Science
+CES351,Concrete Technology,Civil Engineering
+IES321,Operations Research I,Industrial  Engineering
+IES305,Senior Project I,Industrial  Engineering
+ITS322,Database Management Systems,Information Technology
+ITS391,Data Structures for Information Processing,Information Technology
+ITS491,Information System Development,Information Technology
+ITS492,Intelligent Information Systems,Information Technology
+CHS212,Physical Chemistry for Engineers,Chemical Engineering
+CSS321,Theory of Computation,Computer Science
+CSS413,Software Verification and Validation,Computer Science
+CSS414,Software Project Management,Computer Science
+CSS424,Multimedia Processing,Computer Science
+ITS432,Real-time and Embedded Systems,Information Technology
+MTS253,Mechanics for Technologists,Management Technology
+MTS413,Human Resources Management,Management Technology
+MTS453,Business Project Analysis,Management Technology
+MES350,Engineering Statics,Mechanical Engineering
+CHS372,Polymer Science and Development,Chemical Engineering
+CHS321,Cell Biology for Chemical Engineers,Chemical Engineering
+CSS400,Project Development,Computer Science
+ITS467,Computer Game Design and Development,Information Technology
+ECS386,Introduction to Embedded System,Electronics and Communication Engineering
+SE799,Independent Study,Logistics and Supply Chain Systems Engineering
+MES311,Thermodynamics,Mechanical Engineering
+MES443,Environmental Control Engineering,Mechanical Engineering
+CES322,Reinforced Concrete Design,Civil Engineering
+MTS251,Resource Economics,Management Technology
+ITS332,Information Technology II Laboratory,Information Technology
+ITS333,Information Technology III Laboratory,Information Technology
+CSS322,Scientific Computing,Computer Science
+ITS431,Mobile Computing,Information Technology
+MTS351,Management Systems Optimization,Management Technology
+MTS481,Business Process Simulation,Management Technology
+MTS494,Special Study in Engineering Mangement II,Engineering Management
+CES406,Special Study in Civil Engineering II,Civil Engineering
+CHS417,Safety in Chemical Operations,Chemical Engineering
+CHS483,Special Topics in Chemical Engineering III,Chemical Engineering
+CHS487,Chemical Engineering Extended Training,Chemical Engineering
+CSS499,Extended Computer Science Training,Computer Science
+IES401,Senior Project II,Industrial  Engineering
+MTS414,Psychology in Management Technology,Management Technology
+ECS308,Basic Electromechanical Energy Conversion,Electronics and Communication Engineering
+ECS341,Mobile Application Programming,Electronics and Communication Engineering
+CHS358,Chemical Process Laboratory,Chemical Engineering
+ECS363,Mechatronic Instrumentation,Electronics and Communication Engineering
+CHS429,Bio-Chemical Technology Laboratory,Chemical Engineering
+MES341,Fluid Dynamics,Mechanical Engineering
+CSS300,Computer Science Training,Computer Science
+MTS339,Purchasing and Supply Management,Management Technology
+GTS112,Linear Algebra,Common Studies
+SCS126,Chemistry for Engineers,Common Studies
+MES371,Material Science for Engineers,Mechanical Engineering
+SCS138,Applied Physics I,Common Studies
+CES321,Timber and Steel Design,Civil Engineering
+MTS211,Principles of Business,Management Technology
+MTS313,Organizational Behavior,Management Technology
+CES323,Advanced Structural Concrete Design,Civil Engineering
+ITS331,Information Technology I Laboratory,Information Technology
+ITS422,Introduction to Decision Support Systems,Information Technology
+CES392,Special Topics in Civil Engineering II,Civil Engineering
+CHS415,Environmental Chemical Engineering,Chemical Engineering
+MTS254,Introduction to Management Science,Management Technology
+MTS311,Fundamental Financial Accounting,Management Technology
+MTS334,Applications of Business Statistics,Management Technology
+MTS412,Business Finance,Management Technology
+MES403,Senior Project I,Mechanical Engineering
+MTS382,Database Systems and Applications,Management Technology
+MTS337,Transportation Issues in Logistics,Management Technology
+MTS383,E-Business,Management Technology
+MTS384,Information Systems Softwares,Management Technology
+GTS132,Introduction to Biological  Science,Common Studies
+GTS116,Mathematics for Technologists I,Common Studies
+ITS342,3D Computer Animation,Information Technology
+ITS343,Business Application Programming,Information Technology
+MTS403,Project Proposal Development,Management Technology
+CSS224,Computer Architectures,Computer Science
+ES900,Doctoral Dissertation,Doctor of Philosophy
+TU120,Integrated Social Sciences,Common Studies
+MAS116,Mathematics I,Common Studies
+SCS139,Applied Physics II,Common Studies
+IES302,Engineering Statistics,Industrial  Engineering
+MCS483,Dynamic Systems and Control,Mechanical Engineering
+CHS242,Chemical Engineering Thermodynamics I,Chemical Engineering
+CHS455,Chemical Engineering Process Design,Chemical Engineering
+MTS231,Statistical Methods for Managers,Management Technology
+MTS312,Principles of Marketing,Management Technology
+GTS231,Law and Technology,Common Studies
+MES231,Engineering Mechanics,Mechanical Engineering
+CHS251,Unit Operations I,Chemical Engineering
+CES405,Special Study in Civil Engineering I,Civil Engineering
+CES407,Senior Project,Civil Engineering
+CES408,Extended Civil Engineering Training,Civil Engineering
+CHS482,Special Topics in Chemical Engineering II,Chemical Engineering
+CSS403,Senior Project,Computer Science
+ECS398,Senior Project,Electronics and Communication Engineering
+ITS403,Senior Project,Information Technology
+MES407,Senior Project II,Mechanical Engineering
+MTS304,Extended Engineering management Training,Management Technology
+GTS111,Mathematical Analysis for Management Science,Common Studies
+ECS203,Basic Electrical Engineering,Electronics and Communication Engineering
+ICT790,Current Topics in Information and Communication Technology,Information and Communication Technology for Embedded Systems
+CES406,Special Studies in Civil Engineering II,Civil Engineering
+TU130,Integrated Sciences and Technology,Common Studies
+TU110,Integrated Humanities,Common Studies
+MAS117,Mathematics II,Common Studies
+EL171,English Course II,Common Studies
+MTS404,Senior Project,Management Technology
+GTS101,Skills Development  for Technical Studies,Common Studies
+GTS117,Mathematics for Technologists II,Common Studies
+MAS210,Mathematics III,Common Studies
+GTS121,General Science I,Common Studies
+CES494,Coastal Engineering,Civil Engineering
+CHS343,Chemical Engineering Thermodynamics II,Chemical Engineering
+CHS352,Unit Operations II,Chemical Engineering
+MTS411,Management Accounting,Management Technology
+MTS338,Warehouse Operations Management,Management Technology
+MTS492,Special Study in Management Technology II,Management Technology
+GTS210,Mathematics for Technologists III,Common Studies
+MES211,Thermofluids,Mechanical Engineering
+ET684,Materials for Advanced Applications,Engineering Technology
+ICT720,Hardware Concepts for Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT740,Communication Theory,Information and Communication Technology for Embedded Systems
+ICT750,Digital Signal Processing,Information and Communication Technology for Embedded Systems
+ET673,Principle of Sustainable Environmental Engineering,Engineering Technology
+EL172,English Course III,Common Studies
+ITS423,Data Warehouses and Data Mining,Information Technology
+ITS424,Electronic Commerce,Information Technology
+GTS122,General Science II,Common Studies
+MTS212,Principles of Management,Management Technology
+MTS493,Special Study in Engineering Mangement I,Engineering Management
+CHS353,Unit Operations III,Chemical Engineering
+ITS499,Extended Information Technology Training,Information Technology
+GTS213,Calculus for Technologists II,Common Studies
+GTS202,English Language Structures,Common Studies
+ITS101,Programming and Algorithms,Information Technology
+CES426,Durability of Concrete Structures,Civil Engineering
+CSS499,Extended Computer Engineering Training,Computer Engineering
+CHS485,Special Studies in Chemical Engineering I,Chemical Engineering
+TU100,Civic Education,Common Studies
+ET601,Computer Applications for Engineers,Engineering Technology
+ICT710,Software Designs for Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT730,Hardware Designs for Embedded Systems,Information and Communication Technology for Embedded Systems
+ICT770,Control Systems,Information and Communication Technology for Embedded Systems
+ET630,Special Topic in Electrical Engineering,Engineering Technology
+ET667,Cleaner production,Engineering Technology
+ITS432,Mobile Application Programming,Information Technology
+SE631,Special Topics in Logistics and Supply Chain Systems II,Logistics and Supply Chain Systems Engineering
+SE632,Current Topics in Logistics and Supply Chain Systems I,Logistics and Supply Chain Systems Engineering
+TU100,Civic Engagement,Common Studies
+IES304,Industrial Engineering Training,Industrial  Engineering
+CES303,Civil Engineering Training,Civil Engineering
+MES303,Mechanical Engineering Training,Mechanical Engineering
+MTS301,Management Technology Training,Management Technology
+ITS300,Information Technology Training,Information Technology
+CHS301,Chemical Engineering Training,Chemical Engineering
+MTS309,Engineering Management Training,Management Technology
+MTS393,Current Topics in Management Technology II,Management Technology
+ECS300,Electronics and Communication Engineering Training,Electronics and Communication Engineering
+GTS401,Intensive English Proficiency,Common Studies
+CSS300,Computer Engineering Training,Computer Engineering
+CES362,Field Surveying Camp,Civil Engineering
+ET639,Power Distribution,Engineering Technology
+ET631,Current Topics in Electrical Engineering,Engineering Technology
+ES901,Doctoral Dissertation,Doctor of Philosophy
+ICT801,Thesis,Information and Communication Technology for Embedded Systems
+TU140,Thai Studies,Common Studies
+SCS176,Chemistry Laboratory,Common Studies
+SCS183,Physics Laboratory I,Common Studies
+MAS215,Differential Equations,Common Studies
+IES301,Manufacturing Tools and Operations,Industrial  Engineering
+IES303,Engineering Management and Cost Analysis,Industrial  Engineering
+CES341,Transportation Engineering and Planning,Civil Engineering
+CES381,Hydraulics,Civil Engineering
+CES382,Hydraulics Laboratory,Civil Engineering
+IES312,Methods Analysis and Work Measurement,Industrial  Engineering
+IES315,Methods Analysis and Work Measurement Laboratory,Industrial  Engineering
+CES311,Theory of Structures,Civil Engineering
+MES352,Mechanics of Machinery,Mechanical Engineering
+CES331,Soil Mechanics,Civil Engineering
+MES300,Engineering Drawing,Mechanical Engineering
+MES422,Thermal System Design,Mechanical Engineering
+IES331,Quality Control,Industrial  Engineering
+IES391,Applied Statistical Methods,Industrial  Engineering
+IES343,Safety Engineering,Industrial  Engineering
+IES342,Industrial Cost Analysis and Control,Industrial  Engineering
+MES383,Hydraulic and Pneumatic Control,Mechanical Engineering
+IES332,Factory Automation and Control Methods,Industrial  Engineering
+IES336,Industrial Instrument and Controlling System,Industrial  Engineering
+CES403,Seminar,Civil Engineering
+IES345,Project Feasibility Study,Industrial  Engineering
+MES462,Turbomachinery,Mechanical Engineering
+CES353,Construction Engineering and Management,Civil Engineering
+CES414,Finite Element Methods in Engineering,Civil Engineering
+CES423,Building Design,Civil Engineering
+MTS252,Materials Science,Management Technology
+MTS391,Special Topics in Management Technology,Management Technology
+ITS221,Data Structures and Algorithms,Information Technology
+CES450,Urban Engineering,Civil Engineering
+ITS323,Introduction to Data Communications,Information Technology
+MES381,Measurements and Instrumentation,Mechanical Engineering
+ITS484,Topics in Software Technology I,Information Technology
+ITS485,Topics in Software Technology II,Information Technology
+ITS486,Topics in Software Technology III,Information Technology
+ITS489,Topics in Computer Information Systems III,Information Technology
+CHS241,Material and Energy Balance,Chemical Engineering
+CHS331,Chemical Reaction Kinetics and Reactor Design,Chemical Engineering
+CHS402,Chemical Engineering Seminar,Chemical Engineering
+CHS456,Transport  Phenomena,Chemical Engineering
+CHS461,Process Dynamics and Control,Chemical Engineering
+ITS441,Accounting Information Systems,Information Technology
+ITS442,Entrepreneurship for IT Business Development,Information Technology
+MTS232,Production and Operations Management,Management Technology
+MTS431,Facility Location and Layout Planning,Management Technology
+IES201,Industrial Engineering Mathematics,Industrial  Engineering
+CHS457,Chemical Engineering Plant Design,Chemical Engineering
+MTS335,Enterprise Planning and Control Systems,Management Technology
+MTS340,Introduction to Inventory Management,Management Technology
+CHS316,Statistics for Chemical Engineering,Chemical Engineering
+ECS315,Probability and Random Processes,Electronics and Communication Engineering
+ECS322,Electronic Circuits II,Electronics and Communication Engineering
+ECS332,Principles of Communications,Electronics and Communication Engineering
+ECS381,Feedback Control Systems,Electronics and Communication Engineering
+ECS396,Project Development,Electronics and Communication Engineering
+ECS442,Microwave Principles,Electronics and Communication Engineering
+ECS450,Signal Processing and Communication Laboratory,Electronics and Communication Engineering
+ECS451,Data Communications and Networks,Electronics and Communication Engineering
+ECS456,Optical Communications,Electronics and Communication Engineering
+ECS478,Introduction to Computer Vision and Pattern Recognition,Electronics and Communication Engineering
+ITS400,Project Development,Information Technology
+GTS212,Calculus for Technologists I,Common Studies
+CES201,Engineering Materials,Civil Engineering
+MES444,Renewable Energy Resources,Mechanical Engineering
+MES474,Thermal Energy Management,Mechanical Engineering
+ECS213,Electrical Engineering Mathematics,Electronics and Communication Engineering
+ECS217,Computer Tools in Electrical Engineering,Electronics and Communication Engineering
+ITS231,Data Structures and Algorithms Laboratory,Information Technology
+ECS307,Basic Electromechanical Energy Conversion Laboratory,Electronics and Communication Engineering
+ITS341,Management Information Systems,Information Technology
+CHS362,Chemical Engineering Laboratory I,Chemical Engineering
+ITS201,Discrete  Mathematics,Information Technology
+CHS327,Bio-Chemical Technology,Chemical Engineering
+MES481,Power Plant Engineering,Mechanical Engineering
+CSS224,Computer Architectures,Computer Engineering
+CSS226,Scientific Computing,Computer Engineering
+CSS321,Theory of Computation,Computer Engineering
+CSS331,Fundamentals of Data Communications,Computer Engineering
+CSS400,Project Development,Computer Engineering
+CSS433,Computer Vision,Computer Engineering
+CSS434,Knowledge Representation and Reasoning,Computer Engineering
+CSS442,Computer Interfacing,Computer Engineering
+CSS444,Wireless Networks,Computer Engineering
+MTS234,Basic Electrical Engineering for Technologist,Management Technology
+MTS403,Management Technology Seminar,Management Technology
+MTS482,Principles of Decision Support Systems,Management Technology
+MTS486,Introduction to Enterprise Resource Planning,Management Technology
+MTS386,Distributed and Collaborative Computing,Management Technology
+MTS483,Information Systems Implementation,Management Technology
+MTS484,Intelligent Systems for Business,Management Technology
+MTS485,Business Intelligence Technologies and Applications,Management Technology
+MES403,Mechanical Engineering Project I,Mechanical Engineering
+CHS211,Organic Chemistry,Chemical Engineering
+CHS315,Environmental Chemical Engineering,Chemical Engineering
+CHS343,Thermodynamics II,Chemical Engineering
+CHS352,Heat Transfer,Chemical Engineering
+CHS375,Analytical and Instrumental Chemistry,Chemical Engineering
+CHS402,Seminar,Chemical Engineering
+IES305,Industrial Engineering Project I,Industrial  Engineering
+CES202,Introduction to Building Facilities,Civil Engineering
+ES601,Advanced Engineering Mathematics,Common Studies
+ES605,Research Methodology,Common Studies
+ES606,Research Seminar,Common Studies
+ET637,Special Topic in Smart Grid Technology,Engineering Technology
+ET638,Current Topics in Smart Grid Technology,Engineering Technology
+ICT700,Software Concepts for Embedded Systems,Information and Communication Technology for Embedded Systems
+ITS344,Web and Business Application Development,Information Technology
+ITS351,Database Programming Laboratory,Information Technology
+ITS322,Database Systems,Information Technology
+ITS342,Computer Animation,Information Technology
+MTS337,Transportation and Logistics Management,Management Technology
+MTS384,Information Systems Software,Management Technology
+SE630,Special Topics in Logistics and Supply Chain Systems I,Logistics and Supply Chain Systems Engineering
+IES303,Engineering Management and Cost Analysis,Industrial Engineering and Logistics Systems
+MTS252,Materials Science,Engineering Management
+ET691,Current Topics in Computer Engineering,Engineering Technology
+IES343,Safety Engineering,Industrial Engineering and Logistics Systems
+IES371,Engineering Management,Industrial Engineering and Logistics Systems
+TU101,"Thailand, ASEAN, and the World",Common Studies
+MES302,Introduction to Computer Aided Design,Mechanical Engineering
+CES361,Surveying,Civil Engineering
+MES321,Heat Transfer,Mechanical Engineering
+IES341,Engineering Economy,Industrial  Engineering
+MES333,Design of Machine Elements,Mechanical Engineering
+IES361,Manufacturing Process Design,Industrial  Engineering
+SCS184,Physics Laboratory II,Common Studies
+IES371,Engineering Management,Industrial  Engineering
+MES390,Basic Mechanical Engineering Laboratory,Mechanical Engineering
+CES302,Engineering Hydrology,Civil Engineering
+CES343,Highway Engineering,Civil Engineering
+IES313,Industrial Plant Design,Industrial  Engineering
+IES323,Production Planning and Control,Industrial  Engineering
+MES382,Vibration and Noise Control,Mechanical Engineering
+CES312,Structural Analysis,Civil Engineering
+CES352,Material Testing,Civil Engineering
+IES374,Management Information Systems,Industrial  Engineering
+IES364,Manufacturing Processes and Technologies,Industrial  Engineering
+CES370,Mechanics of Materials,Civil Engineering
+GTS302,Technical Writing,Common Studies
+IES392,Systems Simulation,Industrial  Engineering
+CES444,Hydraulic Engineering,Civil Engineering
+IES351,Maintenance Engineering,Industrial  Engineering
+IES353,Pollution Control and Waste Treatment,Industrial  Engineering
+IES363,Manufacturing Engineering Laboratory II,Industrial  Engineering
+IES394,Artificial Intelligence in Industrial Engineering,Industrial  Engineering
+CES215,Applied Mathematics in Civil Engineering,Civil Engineering
+CES315,Computational Methods in Civil Engineering,Civil Engineering
+IES376,Logistics and Supply Chain Management,Industrial  Engineering
+ITS329,System Analysis and Design,Information Technology
+ITS413,Internet Technologies and Applications,Information Technology
+ITS327,Computer Network Architectures and Protocols,Information Technology
+CES391,Special Topics in Civil Engineering I,Civil Engineering
+ITS412,Tele-services and Services Architecture,Information Technology
+ITS482,Topics in Hardware and Communications II,Information Technology
+ITS487,Topics in Computer Information Systems I,Information Technology
+ITS488,Topics in Computer Information Systems II,Information Technology
+CHS425,General Food Science,Chemical Engineering
+MTS331,Economic Decision Analysis,Management Technology
+MTS332,Quality Management,Management Technology
+MTS333,Production and Inventory Management,Management Technology
+MTS451,Project Management,Management Technology
+CHS213,Applied Mathematics in Chemical Engineering,Chemical Engineering
+CES332,Foundation Engineering,Civil Engineering
+GTS133,Environmental Studies,Common Studies
+MTS233,Introduction to Supply Chain Management,Management Technology
+MTS314,International Trade and Business,Management Technology
+MTS381,Business Information Systems,Management Technology
+MTS392,Current Topics in Management Technology I,Management Technology
+MTS433,Analysis Techniques for Complex Supply Chain Management Problems,Management Technology
+CHS371,Petroleum and Petrochemical Technology,Chemical Engineering
+CHS481,Special Topics in Chemical Engineering I,Chemical Engineering
+CHS484,Senior Project,Chemical Engineering
+ECS320,Electronic Circuits Laboratory,Electronics and Communication Engineering
+ECS370,Digital Circuits Laboratory,Electronics and Communication Engineering
+ECS371,Digital Circuits,Electronics and Communication Engineering
+ECS380,Feedback Control Laboratory,Electronics and Communication Engineering
+ECS382,Microprocessors,Electronics and Communication Engineering
+ECS452,Digital Communication Systems,Electronics and Communication Engineering
+ECS472,Digital Signal Processing,Electronics and Communication Engineering
+ECS455,Mobile Communications,Electronics and Communication Engineering
+ECS462,Antennas,Electronics and Communication Engineering
+ECS465,Biomedical Instrumentation,Electronics and Communication Engineering
+ECS475,Digital Image Processing,Electronics and Communication Engineering
+GTS303,Communications in Business,Common Studies
+MTS455,Business Process Management,Management Technology
+ITS335,IT Security,Information Technology
+ITS100,Introduction to Computers and Programming,Information Technology
+ITS102,Object-oriented Programming,Information Technology
+ITS103,Object-oriented Programming Laboratory,Information Technology
+ECS204,Basic Electrical Engineering Laboratory,Electronics and Communication Engineering
+MES473,Energy Economics,Mechanical Engineering
+ECS210,Basic Electrical Engineering Laboratory,Electronics and Communication Engineering
+ECS218,"Data Structures, Algorithms, and Object Oriented Programming",Electronics and Communication Engineering
+ITS229,Human Computer Interface Design,Information Technology
+ECS231,Electronic Circuits I,Electronics and Communication Engineering
+ECS233,Electromagnetics,Electronics and Communication Engineering
+ECS261,Electrical Measurement and Instrumentation,Electronics and Communication Engineering
+ECS281,Signals and Systems,Electronics and Communication Engineering
+ECS306,Basic Electrical Machines and Power Systems,Electronics and Communication Engineering
+ITS336,Artificial Intelligence,Information Technology
+CHS363,Chemical Engineering Laboratory II,Chemical Engineering
+MES312,Combustion and Emission Control,Mechanical Engineering
+CHS328,Pharmaceutical Industry and Technology,Chemical Engineering
+CSS221,Computer Graphics and Applications,Computer Engineering
+CSS332,Microcontrollers and Applications,Computer Engineering
+CSS333,Parallel and Distributed Computing,Computer Engineering
+CSS403,Computer Engineering Project,Computer Engineering
+CSS431,Machine Learning and Pattern Recognition,Computer Engineering
+CSS432,Information Retrieval,Computer Engineering
+CSS441,Security and Cryptography,Computer Engineering
+CSS443,Real-time and Embedded Systems,Computer Engineering
+CSS225,Operating System,Computer Engineering
+MTS251,Economics for Business and Management,Management Technology
+MTS415,Strategic Management,Management Technology
+MTS387,Business Data Communications and Networking,Management Technology
+MTS388,Business Information Systems Analysis,Management Technology
+MTS389,Application Programming for Technologists,Management Technology
+MTS404,Management Technology Project,Management Technology
+MES313,Internal Combustion Engines,Mechanical Engineering
+MES407,Mechanical Engineering Project II,Mechanical Engineering
+MES483,Dynamic Systems and Control,Mechanical Engineering
+CHS212,Physical Chemistry,Chemical Engineering
+CHS242,Thermodynamics I,Chemical Engineering
+CHS251,Fluid Dynamics,Chemical Engineering
+CHS317,Safety in Chemical Operations,Chemical Engineering
+CHS353,Mass Transfer,Chemical Engineering
+CHS355,Chemical Engineering Process Design,Chemical Engineering
+CHS364,Experimental Design and Methods for Chemical Engineering,Chemical Engineering
+CHS374,Polymer Science and Engineering,Chemical Engineering
+CHS484,Chemical Engineering Project,Chemical Engineering
+ECS398,Electronics and Communication Engineering Project,Electronics and Communication Engineering
+IES401,Industrial Engineering Project II,Industrial  Engineering
+CES407,Civil Engineering Project,Civil Engineering
+ET800,Thesis,Engineering Technology
+ICT800,Thesis,Information and Communication Technology for Embedded Systems
+ES603,Special Study,Common Studies
+ES604,Selected Topic,Chemical Engineering
+SE800,Thesis,Logistics and Supply Chain Systems Engineering
+MTS404,Engineering Management Project,Management Technology
+ITS352,Networking Laboratory,Information Technology
+ITS353,Graphic and Game Programming Laboratory,Information Technology
+ITS403,Information Technology Project,Information Technology
+CES405,Special Studies in Civil Engineering I,Civil Engineering
+CSS334,Computer Networks and Internetworking,Computer Engineering
+MTS394,Introduction to Research Methodology in Management Technology,Management Technology
+ES903,Doctoral Dissertation,Doctor of Philosophy
+MMA800,Thesis,Management Technology
+ES607,Selected Topic I,Common Studies
+ES608,Selected Topic II,Common Studies
+ES609,Selected Topic III,Common Studies
+ES610,Research Methods and Communications,Common Studies
+ES807,Thesis,Common Studies
+ES808,Thesis,Common Studies
+SE601,Smart Logistics and Supply Chain Systems,Logistics and Supply Chain Systems Engineering
+SE618,Logistics Case Study Analysis,Logistics and Supply Chain Systems Engineering
+ITS102,Object Oriented Programming,Information Technology
+MTS280,Introduction of Algorithms and Object Oriented Programming,Management Technology
+GTS111,Probability for Technologists,Common Studies
+GTS112,Principles of Linear Algebra,Common Studies
+TU050,English Skill Development,Common Studies
+TU102,Social Life Skills,Common Studies
+TU103,Life and Sustainability,Common Studies
+TU104,"Critical Thinking, Reading, and Writing",Common Studies
+TU105,Communication Skills in English,Common Studies
+TU106,Creativity and Communication,Common Studies

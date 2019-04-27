@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import Nav from 'react-bootstrap/Nav'
-import styles from './SidePanel.css';
+// import Nav from 'react-bootstrap/Nav'
+// import styles from './SidePanel.css';
 import Clock from './Clock.js'
 import { Menu, Icon } from 'antd';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default class SidePanel extends Component {
     render() {
