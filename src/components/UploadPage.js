@@ -54,7 +54,9 @@ class UploadPage extends Component {
       message.success(`${this.state.fileName} upload successfully.`)
       db.collection('users').doc(this.props.fetchUser.uid).get().then(doc => {
         uploadTask.snapshot.ref.getDownloadURL().then(function (downloadURL) {
-          db.collection(`sheets/`).add({
+          let newDoc = db.collection('sheets/').doc()
+          newDoc.set({
+            id: newDoc.id,
             fileName: self.state.fileName[0],
             description: self.state.description,
             url: downloadURL,

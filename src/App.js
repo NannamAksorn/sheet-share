@@ -3,14 +3,15 @@ import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import MyHeader from './components/MyHeader'
 import UploadPage from './components/UploadPage'
+import Home from './components/Home'
 // import SheetsCards from './components/SheetCards'
 import SidePanel from './components/SidePanel'
 import Filter from './components/Filter'
-import TestFireStore from './components/TestFireStore'
 import { Layout } from 'antd';
 
 import { setIsMobile, fetchUser, fetchCourse , setCourse} from './actions'
 import { connect } from 'react-redux'
+import MyCourse from './components/MyCourse';
 // import SignIn from './components/SignIn';
 
 const { Header, Content, Sider } = Layout;
@@ -64,10 +65,9 @@ class App extends Component {
           </Sider>
           <Content style={{ padding: { contentPadding }, marginTop: 64, marginLeft: `${this.state.offsetLeft}px` }}>
             <Filter />
-            {/* <Route exact path='/' component={SheetsCards} /> */}
-            {/* <Route exact path="/" component= {SignIn} /> */}
+            <Route exact path="/" component= {Home} />
             <Route path='/upload' component={UploadPage} />
-            <Route path='/test' component={TestFireStore} />
+            <Route path='/MyCourse' component={MyCourse} />
           </Content>
         </Layout>
       </Router>

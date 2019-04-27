@@ -4,6 +4,8 @@ import {
     FETCH_USER,
     FETCH_COURSE,
     SET_COURSE,
+    SET_PROGRAM,
+    SET_SEARCH
 } from './actions';
 
 function fetchUser(state = [], action) {
@@ -34,11 +36,28 @@ function isMobile(state = [], action) {
             return state
     }
 }
-
+function setProgram(state = [], action) {
+    switch (action.type) {
+        case SET_PROGRAM:
+            return action.program
+        default:
+            return state
+    }
+}
+function setSearch(state = [], action) {
+    switch (action.type) {
+        case SET_SEARCH:
+            return action.search
+        default:
+            return state
+    }
+}
 const myApp = combineReducers({
     isMobile,
     fetchUser,
-    fetchCourse
+    fetchCourse,
+    setProgram,
+    setSearch
 })
 
 export default myApp

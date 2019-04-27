@@ -21,7 +21,7 @@ export default class SidePanel extends Component {
                 <Menu.Item key="myCourse">
                     <Icon type='book' />
                     <span> My Course</span>
-                    <Link to="/test" />
+                    <Link to="/MyCourse" />
 
                 </Menu.Item>
                 <Menu.Item key="upload">

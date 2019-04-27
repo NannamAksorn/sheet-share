@@ -5,6 +5,8 @@ export const SIGN_IN = 'SIGN_IN'
 export const FETCH_USER = 'FETCH_USER'
 export const FETCH_COURSE = 'FETCH_COURSE'
 export const SET_COURSE = 'SET_COURSE'
+export const SET_PROGRAM = 'SET_PROGRAM'
+export const SET_SEARCH = 'SET_SEARCH'
 
 export const fetchUser = () => dispatch => {
     authRef.onAuthStateChanged(user => {
@@ -21,7 +23,12 @@ export const fetchUser = () => dispatch => {
         }
     });
 };
-
+export function setProgram(program) {
+    return { type: SET_PROGRAM, program}
+}
+export function setSearch(search) {
+    return { type: SET_SEARCH, search}
+}
 export const setCourse = (courses) => dispatch => {
     if (courses) {
         dispatch({
